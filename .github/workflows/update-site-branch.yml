@@ -78,11 +78,11 @@ jobs:
 
     - name: Update site branch
       run: |
-        if git show-ref --quiet refs/heads/site; then
-          git checkout site
-        else
-          git checkout -b site
-        fi
+        # Create a new orphan branch named 'site'
+        git checkout --orphan site
+
+        # Remove all files from the working directory
+        git rm -rf .
 
         # Copy all files from main branch
         git checkout main -- .
@@ -93,8 +93,8 @@ jobs:
         # Commit the changes
         git commit -m "Update site with latest index files"
 
-        # Push the site branch
-        git push origin site
+        # Force push the site branch
+        git push -f origin site
 
     - name: Switch back to main branch
       run: git checkout main
