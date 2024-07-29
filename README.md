@@ -1,0 +1,1 @@
+https://wapanese.github.io/jp-subtitles/
