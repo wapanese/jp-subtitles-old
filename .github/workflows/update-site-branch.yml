@@ -41,7 +41,7 @@ jobs:
 
             for item in "$dir"/*; do
                 local item_name=$(basename "$item")
-                if [[ "$item_name" != ".git" && "$item_name" != *.html ]]; then
+                if [[ "$item_name" != .* && "$item_name" != *.html ]]; then
                     if [ -d "$item" ]; then
                         echo "<li><a href=\"$item_name/\">$item_name/</a></li>" >> "$index_file"
                     else
@@ -61,14 +61,14 @@ jobs:
         process_directory() {
             local dir="$1"
             
-            if [[ "$(basename "$dir")" == ".git" ]]; then
+            if [[ "$(basename "$dir")" == .* ]]; then
                 return
             fi
             
             generate_index "$dir"
             
             for subdir in "$dir"*/; do
-                if [ -d "$subdir" ]; then
+                if [ -d "$subdir" ] && [[ "$(basename "$subdir")" != .* ]]; then
                     process_directory "$subdir"
                 fi
             done
@@ -84,8 +84,8 @@ jobs:
         # Remove all files from the working directory
         git rm -rf .
 
-        # Copy all files from main branch
-        git checkout main -- .
+        # Copy all non-hidden files from main branch
+        git checkout main -- $(git ls-files | grep -v "^\.")
 
         # Add all changes
         git add .
