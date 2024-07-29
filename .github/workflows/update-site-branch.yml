@@ -101,6 +101,3 @@ jobs:
 
         # Force push the site branch
         git push -u -f origin site
-
-    - name: Switch back to main branch
-      run: git checkout main
