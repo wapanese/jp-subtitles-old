@@ -78,21 +78,6 @@ jobs:
 
     - name: Update site branch
       run: |
-        # Check if the 'site' branch exists
-        if git ls-remote --exit-code --heads origin site; then
-          echo "Branch 'site' exists. Updating it."
-          git checkout -b site origin/site
-        else
-          echo "Branch 'site' does not exist. Creating it."
-          git checkout --orphan site
-        fi
-
-        # Remove all files from the working directory
-        git rm -rf .
-
-        # Copy all non-hidden files from main branch
-        git checkout main -- $(git ls-files | grep -v "^\.")
-
         # Add all changes
         git add .
 
@@ -100,4 +85,4 @@ jobs:
         git commit -m "Update site with latest index files"
 
         # Force push the site branch
-        git push -u -f origin site
+        git push -u -f origin main:site
