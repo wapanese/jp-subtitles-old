@@ -1,0 +1,100 @@
+name: Update Site Branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-site-branch:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Git
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+
+    - name: Generate index files
+      run: |
+        generate_index() {
+            local dir="$1"
+            local rel_path="${dir#$GITHUB_WORKSPACE}"
+            local display_path="/${rel_path#/}"
+            local index_file="$dir/index.html"
+            
+            echo "<!DOCTYPE HTML>
+        <html lang=\"en\">
+        <head>
+        <meta charset=\"utf-8\">
+        <title>Directory listing for $display_path</title>
+        </head>
+        <body>
+        <h1>Directory listing for $display_path</h1>
+        <hr>
+        <ul>" > "$index_file"
+
+            for item in "$dir"/*; do
+                local item_name=$(basename "$item")
+                if [[ "$item_name" != ".git" && "$item_name" != *.html ]]; then
+                    if [ -d "$item" ]; then
+                        echo "<li><a href=\"$item_name/\">$item_name/</a></li>" >> "$index_file"
+                    else
+                        echo "<li><a href=\"$item_name\">$item_name</a></li>" >> "$index_file"
+                    fi
+                fi
+            done
+
+            echo "</ul>
+        <hr>
+        </body>
+        </html>" >> "$index_file"
+
+            echo "Generated index.html for $display_path"
+        }
+
+        process_directory() {
+            local dir="$1"
+            
+            if [[ "$(basename "$dir")" == ".git" ]]; then
+                return
+            fi
+            
+            generate_index "$dir"
+            
+            for subdir in "$dir"*/; do
+                if [ -d "$subdir" ]; then
+                    process_directory "$subdir"
+                fi
+            done
+        }
+
+        process_directory "$GITHUB_WORKSPACE"
+
+    - name: Update site branch
+      run: |
+        if git show-ref --quiet refs/heads/site; then
+          git checkout site
+        else
+          git checkout -b site
+        fi
+
+        # Copy all files from main branch
+        git checkout main -- .
+
+        # Add all changes
+        git add .
+
+        # Commit the changes
+        git commit -m "Update site with latest index files"
+
+        # Push the site branch
+        git push origin site
+
+    - name: Switch back to main branch
+      run: git checkout main
