@@ -78,8 +78,14 @@ jobs:
 
     - name: Update site branch
       run: |
-        # Create a new orphan branch named 'site'
-        git checkout --orphan site
+        # Check if the 'site' branch exists
+        if git ls-remote --exit-code --heads origin site; then
+          echo "Branch 'site' exists. Updating it."
+          git checkout -b site origin/site
+        else
+          echo "Branch 'site' does not exist. Creating it."
+          git checkout --orphan site
+        fi
 
         # Remove all files from the working directory
         git rm -rf .
@@ -94,7 +100,7 @@ jobs:
         git commit -m "Update site with latest index files"
 
         # Force push the site branch
-        git push -f origin site
+        git push -u -f origin site
 
     - name: Switch back to main branch
       run: git checkout main
