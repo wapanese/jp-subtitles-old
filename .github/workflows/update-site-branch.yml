@@ -61,8 +61,13 @@ jobs:
         create_zip() {
             local dir="$1"
             local zip_name="$2"
-            zip -j "$dir/$zip_name" "$dir"/*
-            echo "Created $zip_name in $dir"
+            local file_count=$(find "$dir" -maxdepth 1 -type f | wc -l)
+            if [ "$file_count" -gt 1 ]; then
+                zip -j "$dir/$zip_name" "$dir"/*
+                echo "Created $zip_name in $dir"
+            else
+                echo "Skipped creating $zip_name in $dir (contains 1 or fewer files)"
+            fi
         }
 
         process_directory() {
