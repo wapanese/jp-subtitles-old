@@ -20,7 +20,7 @@ jobs:
         git config user.name github-actions
         git config user.email github-actions@github.com
 
-    - name: Generate index files
+    - name: Generate zip files and index files
       run: |
         generate_index() {
             local dir="$1"
@@ -58,23 +58,44 @@ jobs:
             echo "Generated index.html for $display_path"
         }
 
+        create_zip() {
+            local dir="$1"
+            local zip_name="$2"
+            zip -j "$dir/$zip_name" "$dir"/*
+            echo "Created $zip_name in $dir"
+        }
+
         process_directory() {
             local dir="$1"
+            local depth="$2"
             
             if [[ "$(basename "$dir")" == .* ]]; then
                 return
             fi
             
+            # Create zip file for folders one level below root
+            if [ "$depth" -eq 1 ]; then
+                local folder_name=$(basename "$dir")
+                create_zip "$dir" "$folder_name.zip"
+            fi
+            
+            # Create zip file for 'eng' folders at depth 2
+            if [ "$depth" -eq 2 ] && [ "$(basename "$dir")" = "eng" ]; then
+                local parent_folder=$(basename "$(dirname "$dir")")
+                create_zip "$dir" "$parent_folder - eng.zip"
+            fi
+            
+            # Generate index after creating zip files
             generate_index "$dir"
             
             for subdir in "$dir"*/; do
                 if [ -d "$subdir" ] && [[ "$(basename "$subdir")" != .* ]]; then
-                    process_directory "$subdir"
+                    process_directory "$subdir" $((depth + 1))
                 fi
             done
         }
 
-        process_directory "$GITHUB_WORKSPACE"
+        process_directory "$GITHUB_WORKSPACE" 0
 
     - name: Update site branch
       run: |
@@ -82,7 +103,7 @@ jobs:
         git add .
 
         # Commit the changes
-        git commit -m "Update site with latest index files"
+        git commit -m "Update site with latest zip archives and index files"
 
         # Force push the site branch
         git push -u -f origin main:site
