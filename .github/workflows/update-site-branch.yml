@@ -74,13 +74,13 @@ jobs:
             fi
             
             # Create zip file for folders one level below root
-            if [ "$depth" -eq 1 ]; then
+            if [ "$depth" -eq 2 ]; then
                 local folder_name=$(basename "$dir")
                 create_zip "$dir" "$folder_name.zip"
             fi
             
             # Create zip file for 'eng' folders at depth 2
-            if [ "$depth" -eq 2 ] && [ "$(basename "$dir")" = "eng" ]; then
+            if [ "$depth" -eq 3 ] && [ "$(basename "$dir")" = "eng" ]; then
                 local parent_folder=$(basename "$(dirname "$dir")")
                 create_zip "$dir" "$parent_folder - eng.zip"
             fi
