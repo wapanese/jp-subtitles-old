@@ -1,0 +1,1388 @@
+1
+00:00:04,270 --> 00:00:05,900
+Where's Kirito?
+
+2
+00:00:08,690 --> 00:00:10,320
+What'd I tell you?
+
+3
+00:00:10,530 --> 00:00:14,280
+That kid's this project's biggest security hole.
+
+4
+00:00:14,570 --> 00:00:16,780
+Yes. You were right.
+
+5
+00:00:17,030 --> 00:00:18,410
+Is Kirito safe?
+
+6
+00:00:18,740 --> 00:00:21,370
+Were you lying
+when you said you could treat him?
+
+7
+00:00:21,370 --> 00:00:23,870
+Please answer me, Mr. Kikuoka!
+
+8
+00:00:26,960 --> 00:00:29,630
+Because of the attack by the fugitive
+from the Death Gun incident,
+
+9
+00:00:29,960 --> 00:00:34,300
+Kirito's brain sustained damage
+that modern medicine is unable to heal.
+
+10
+00:00:35,430 --> 00:00:36,140
+However...
+
+11
+00:00:36,590 --> 00:00:41,640
+Rath is the only place in the world
+that has the technology to treat him.
+
+12
+00:00:42,020 --> 00:00:43,520
+I'm sure you've heard of it.
+
+13
+00:00:44,230 --> 00:00:47,520
+The STL... the Soul Translator.
+
+14
+00:00:48,190 --> 00:00:51,780
+If we use the STL
+to directly stimulate his Fluctlight,
+
+15
+00:00:51,780 --> 00:00:55,530
+we can induce the generation
+of a new neural network.
+
+16
+00:00:55,530 --> 00:00:56,700
+But it takes time.
+
+17
+00:00:57,490 --> 00:01:01,910
+Right now, Kirito is inside a full-spec STL,
+which can only be found here.
+
+18
+00:01:02,410 --> 00:01:06,370
+The treatment he's getting
+rivals that of any major hospital.
+
+19
+00:01:06,370 --> 00:01:08,290
+He even has his own personal nurse.
+
+20
+00:01:09,170 --> 00:01:12,380
+I understand. I'll believe you for now.
+
+21
+00:01:13,380 --> 00:01:19,220
+All right, if we've come this far,
+why don't you just tell us everything, Mr. Kikuoka.
+
+22
+00:01:19,470 --> 00:01:23,930
+Such as why an SDF official like you
+would use the Ministry as a front,
+
+23
+00:01:23,930 --> 00:01:25,680
+what are you plotting here,
+
+24
+00:01:26,390 --> 00:01:29,560
+and why you needed Kirigaya?
+
+25
+00:01:30,270 --> 00:01:32,690
+If you're asking that,
+I'm going to have you help me.
+
+26
+00:01:32,690 --> 00:01:34,070
+I'll decide after I hear your answer.
+
+27
+00:01:35,650 --> 00:01:40,780
+Well, then, may I assume
+you're both familiar with the concept of the STL?
+
+28
+00:01:41,330 --> 00:01:45,000
+It's a machine that reads a human soul,
+their Fluctlight,
+
+29
+00:01:45,000 --> 00:01:48,750
+and allows them to dive into a virtual world
+indistinguishable from reality.
+
+30
+00:01:49,000 --> 00:01:50,460
+Correct.
+
+31
+00:01:50,710 --> 00:01:53,590
+But I don't think you know
+what this project's objective is.
+
+32
+00:01:54,380 --> 00:01:55,510
+Objective?
+
+33
+00:01:57,300 --> 00:02:01,760
+To create a bottom-up
+multi-purpose artificial intelligence.
+
+34
+00:03:31,980 --> 00:03:35,980
+Project Alicization
+
+35
+00:03:36,770 --> 00:03:39,690
+A bottom-up multi-purpose artificial intelligence?
+
+36
+00:03:40,070 --> 00:03:43,450
+There are two approaches
+to developing artificial intelligence.
+
+37
+00:03:43,450 --> 00:03:45,490
+One is top-down.
+
+38
+00:03:45,490 --> 00:03:48,240
+Wherein you program the artificial intelligence
+with experience and knowledge,
+
+39
+00:03:48,240 --> 00:03:52,710
+so that in the end
+it will learn to replicate true intelligence.
+
+40
+00:03:53,210 --> 00:03:58,050
+Including the research of Dr. Shigemura,
+who'd been working with us here,
+
+41
+00:03:58,050 --> 00:04:03,220
+almost everything considered an artificial intelligence
+right now uses the top-down approach.
+
+42
+00:04:03,470 --> 00:04:08,310
+But a top-down type can't react appropriately
+to anything it hasn't learned about.
+
+43
+00:04:08,720 --> 00:04:13,230
+In other words, at this time they haven't
+evolved enough to be called true intelligence.
+
+44
+00:04:14,520 --> 00:04:17,980
+Next, bottom-up artificial intelligence.
+
+45
+00:04:18,610 --> 00:04:20,110
+This is the human brain.
+
+46
+00:04:20,400 --> 00:04:23,030
+It involves artificially replicating the construct
+
+47
+00:04:23,030 --> 00:04:26,990
+of a biological organ comprised
+of one hundred billion linked brain cells,
+
+48
+00:04:26,990 --> 00:04:29,950
+and generating intelligence there.
+
+49
+00:04:30,200 --> 00:04:31,910
+Is such a thing possible?
+
+50
+00:04:32,290 --> 00:04:34,830
+Until now, it was thought to be impossible.
+
+51
+00:04:34,830 --> 00:04:38,380
+But the Soul Translator can scan a human soul,
+
+52
+00:04:38,670 --> 00:04:42,840
+the quantum field we call the Fluctlight.
+
+53
+00:04:43,340 --> 00:04:47,850
+And to store almost the same amount of data
+as a human brain,
+
+54
+00:04:48,050 --> 00:04:53,020
+we've developed the Light Quantum Gate Crystal,
+aka the Lightcube, as a medium.
+
+55
+00:04:53,640 --> 00:04:57,230
+Which means it can be used to copy a Fluctlight?
+
+56
+00:04:57,650 --> 00:04:59,110
+Correct.
+
+57
+00:04:59,110 --> 00:05:03,740
+We have, in fact,
+succeeded in replicating the human soul.
+
+58
+00:05:04,950 --> 00:05:08,570
+Then why did you need to summon me
+at this point?
+
+59
+00:05:09,200 --> 00:05:12,240
+Because, foolishly enough, we'd missed something.
+
+60
+00:05:12,240 --> 00:05:15,790
+The fact that an unbelievably vast
+and deep chasm exists
+
+61
+00:05:15,790 --> 00:05:19,540
+between a copy of the human soul
+and a true artificial intelligence.
+
+62
+00:05:19,750 --> 00:05:20,750
+Higa.
+
+63
+00:05:21,500 --> 00:05:24,630
+Show them "that."
+
+64
+00:05:24,800 --> 00:05:26,630
+Huh? We're doing that again?
+
+65
+00:05:33,520 --> 00:05:34,850
+<i>Is the sampling done?</i>
+
+66
+00:05:35,680 --> 00:05:38,150
+Yeah. Everything completed with no problems.
+
+67
+00:05:38,770 --> 00:05:43,110
+<i>Glad to hear it. But it's pitch-black,
+and I can't move my body.</i>
+
+68
+00:05:43,110 --> 00:05:46,610
+<i>Is this a glitch with the STL?
+Sorry, but can you let me out of the machine?</i>
+
+69
+00:05:47,070 --> 00:05:49,320
+Unfortunately, but I can't do that.
+
+70
+00:05:49,780 --> 00:05:52,370
+<i>Hey, what the hell?
+What are you talking about?</i>
+
+71
+00:05:52,370 --> 00:05:54,790
+<i>Who are you?
+Your voice doesn't sound familiar.</i>
+
+72
+00:05:55,290 --> 00:05:57,750
+I'm Higa. Takeru Higa.
+
+73
+00:05:59,460 --> 00:06:03,710
+<i>No way! What do you mean? I'm Higa!
+You'll know once I get out of the STL!</i>
+
+74
+00:06:03,710 --> 00:06:05,630
+Calm down. Don't get worked up.
+
+75
+00:06:05,630 --> 00:06:07,130
+That's not like you.
+
+76
+00:06:07,130 --> 00:06:09,890
+You may be a copy, but you're Takeru Higa.
+
+77
+00:06:09,890 --> 00:06:11,350
+You calmly accept situationsâ€”
+
+78
+00:06:11,350 --> 00:06:13,260
+<i>I'm the same as ever!</i>
+
+79
+00:06:13,260 --> 00:06:17,890
+<i>If I'm a copy, then I should feel like one!
+This... This isn't...</i>
+
+80
+00:06:17,890 --> 00:06:20,810
+<i>No! Let me out of here!
+Let me out of this thing!</i>
+
+81
+00:06:20,810 --> 00:06:22,230
+You need to calm down.
+
+82
+00:06:22,230 --> 00:06:26,780
+You're aware of the danger to your Fluctlight
+if you lose the capacity for rational thought.
+
+83
+00:06:26,780 --> 00:06:27,740
+<i>I am being rational!</i>
+
+84
+00:06:28,200 --> 00:06:32,070
+<i>All right, then why don't I race that imposter there
+by reciting the digits of pi?</i>
+
+85
+00:06:32,320 --> 00:06:36,250
+<i>3.14159265358....</i>
+
+86
+00:06:44,670 --> 00:06:47,590
+And he's collapsed. One minute, eight seconds.
+
+87
+00:06:48,920 --> 00:06:50,630
+There's a limit to bad taste.
+
+88
+00:06:50,840 --> 00:06:52,470
+I apologize for that.
+
+89
+00:06:52,720 --> 00:06:58,600
+But now you see
+why I could only explain it by showing you.
+
+90
+00:06:58,930 --> 00:07:03,860
+Including myself,
+we've copied the Fluctlights of over ten people,
+
+91
+00:07:03,860 --> 00:07:08,440
+and not a single one could bear the thought
+of being a copy.
+
+92
+00:07:09,070 --> 00:07:12,360
+If full copies are out of the question,
+what should we do?
+
+93
+00:07:12,570 --> 00:07:14,450
+What should you do?
+
+94
+00:07:14,780 --> 00:07:17,040
+Raise them from the start?
+
+95
+00:07:17,330 --> 00:07:18,330
+Could it be...
+
+96
+00:07:18,660 --> 00:07:19,830
+That's right.
+
+97
+00:07:20,160 --> 00:07:23,790
+Copy the souls of newborn infants and raise them.
+
+98
+00:07:24,920 --> 00:07:28,130
+But what kind of environment
+would you raise them in?
+
+99
+00:07:28,130 --> 00:07:31,760
+You can't create an exact copy of the real world.
+
+100
+00:07:31,760 --> 00:07:35,010
+Yes, that's impossible. But we realized something.
+
+101
+00:07:35,010 --> 00:07:39,180
+Plenty of perfect solutions
+already exist on the network.
+
+102
+00:07:39,520 --> 00:07:41,890
+VRMMO worlds.
+
+103
+00:07:41,890 --> 00:07:43,270
+You got that right.
+
+104
+00:07:43,770 --> 00:07:48,650
+Using the Seed, we created small villages
+and surrounding landscapes,
+
+105
+00:07:48,650 --> 00:07:50,820
+and converted them for STL use.
+
+106
+00:07:50,820 --> 00:07:52,990
+In the very first town we created,
+
+107
+00:07:52,990 --> 00:08:00,580
+four members of the Rath staff raised 16 soul archetypes,
+that is, AI infants, to the age of 18.
+
+108
+00:08:02,250 --> 00:08:05,580
+These 16 youths grew up quickly.
+
+109
+00:08:05,840 --> 00:08:08,750
+Although we call them artificial Fluctlights
+for convenience,
+
+110
+00:08:08,750 --> 00:08:12,420
+the way they turned out
+was more than satisfactory.
+
+111
+00:08:12,420 --> 00:08:15,010
+They were all very obedient and upstanding.
+
+112
+00:08:15,930 --> 00:08:18,260
+When they were joined in marriage,
+we gave them babies,
+
+113
+00:08:18,260 --> 00:08:21,680
+in other words,
+new soul archetypes for them to raise.
+
+114
+00:08:21,930 --> 00:08:28,520
+And after accelerating time in their world by 5,000,
+there were more and more generations,
+
+115
+00:08:28,520 --> 00:08:33,360
+and by the time 3 weeks,
+or 300 years in their world, had elapsed,
+
+116
+00:08:33,360 --> 00:08:37,990
+a massive society
+with a population of 80,000 had emerged.
+
+117
+00:08:37,990 --> 00:08:41,660
+But at that level, that's a civilization simulation.
+
+118
+00:08:41,660 --> 00:08:43,160
+That's true, huh?
+
+119
+00:08:43,160 --> 00:08:46,920
+At this time, 480 years have already passed
+in that world,
+
+120
+00:08:46,920 --> 00:08:49,840
+and the population of the capital, Centoria,
+has reached 20,000.
+
+121
+00:08:49,840 --> 00:08:55,340
+At this time, the artificial Fluctlights have matured
+into the bottom-up AIs that we'd hoped for.
+
+122
+00:08:55,340 --> 00:08:59,050
+So we were thrilled
+to be able to move on to the next phase.
+
+123
+00:08:59,050 --> 00:09:00,100
+However...
+
+124
+00:09:00,100 --> 00:09:03,480
+That's when we noticed a certain major issue.
+
+125
+00:09:04,140 --> 00:09:05,190
+Issue?
+
+126
+00:09:05,190 --> 00:09:10,650
+A governing body called the Axiom Church
+had created laws known as the Taboo Index.
+
+127
+00:09:10,860 --> 00:09:12,360
+Taboo Index?
+
+128
+00:09:12,360 --> 00:09:17,700
+It contained, for example, a law forbidding murder,
+like we have in the real world.
+
+129
+00:09:17,700 --> 00:09:23,200
+But just by watching the news,
+it's clear how often humans violate such laws.
+
+130
+00:09:23,200 --> 00:09:25,830
+However, the Fluctlights obey those laws.
+
+131
+00:09:26,290 --> 00:09:28,210
+Obey them excessively, you could say.
+
+132
+00:09:29,170 --> 00:09:31,800
+This town is beautiful, and far too perfect.
+
+133
+00:09:31,800 --> 00:09:35,260
+There isn't a piece of garbage on the streets,
+and not a single thief.
+
+134
+00:09:35,840 --> 00:09:39,720
+Needless to say,
+no murder has ever been committed.
+
+135
+00:09:39,720 --> 00:09:42,180
+And how is that an issue?
+
+136
+00:09:43,520 --> 00:09:45,770
+Could it be that your objective...
+
+137
+00:09:46,850 --> 00:09:49,230
+...is to create AIs capable of murder?
+
+138
+00:09:50,940 --> 00:09:55,820
+Both Kirito and I guessed that
+the reason for your interest in VRMMOs
+
+139
+00:09:55,820 --> 00:10:01,450
+was because the technology could be applied
+to police work and SDF training. But...
+
+140
+00:10:02,410 --> 00:10:04,620
+This project is far too ambitious.
+
+141
+00:10:04,950 --> 00:10:07,960
+For an SDF official like yourself
+to attempt something of this scale...
+
+142
+00:10:08,830 --> 00:10:12,550
+What you want is to build AIs capable
+of killing enemy soldiers in battle.
+
+143
+00:10:13,420 --> 00:10:14,800
+Isn't that the reason?
+
+144
+00:10:16,130 --> 00:10:18,430
+Is that true, Mr. Kikuoka?
+
+145
+00:10:20,430 --> 00:10:21,890
+Five years ago,
+
+146
+00:10:22,180 --> 00:10:24,470
+when the NerveGear was announced,
+
+147
+00:10:24,470 --> 00:10:26,180
+it struck me.
+
+148
+00:10:26,180 --> 00:10:32,440
+This technology had the potential
+to upend the very notion of war.
+
+149
+00:10:32,440 --> 00:10:36,860
+Ministry of Internal Affairs
+and Communications
+
+150
+00:10:33,000 --> 00:10:35,070
+When the SAO incident occurred,
+
+151
+00:10:35,070 --> 00:10:39,570
+I volunteered to transfer to the Ministry,
+and joined the task force.
+
+152
+00:10:40,360 --> 00:10:44,080
+I did all that
+so I could get this project off the ground.
+
+153
+00:10:44,370 --> 00:10:47,540
+It took me five years to finally get to this point.
+
+154
+00:10:48,620 --> 00:10:51,670
+Why did you decide to take part in this project, Higa?
+
+155
+00:10:51,670 --> 00:10:55,960
+Well, actually,
+my motive was a bit more personal.
+
+156
+00:10:56,420 --> 00:10:59,880
+I was friends with this guy
+when I was a student at a college in Korea.
+
+157
+00:11:00,090 --> 00:11:02,600
+And he died while serving in the army.
+
+158
+00:11:03,140 --> 00:11:08,100
+And so I thought...
+even if this world is never rid of war,
+
+159
+00:11:08,100 --> 00:11:11,810
+at least if people never had to die anymore, then...
+
+160
+00:11:12,690 --> 00:11:14,570
+I know it's a pretty childish reason.
+
+161
+00:11:15,070 --> 00:11:19,280
+But you haven't spoken a word of this to Kirito.
+
+162
+00:11:19,280 --> 00:11:20,860
+What makes you think that?
+
+163
+00:11:21,780 --> 00:11:25,870
+If you had talked to him about it,
+he never would've agreed to help you.
+
+164
+00:11:25,870 --> 00:11:29,540
+There's one crucial point of view
+missing from your story.
+
+165
+00:11:29,750 --> 00:11:30,710
+And that is?
+
+166
+00:11:31,420 --> 00:11:33,380
+The rights of the artificial intelligences.
+
+167
+00:11:34,040 --> 00:11:39,800
+These so-called artificial Fluctlights
+have the same cognitive abilities as humans, right?
+
+168
+00:11:39,800 --> 00:11:42,340
+It's not as if they have physical bodies.
+
+169
+00:11:42,760 --> 00:11:45,220
+But they're no different than living beings.
+
+170
+00:11:45,220 --> 00:11:48,060
+Forcing them to kill or be killed as tools of war...
+
+171
+00:11:48,720 --> 00:11:50,980
+Kirito would never play a part in that!
+
+172
+00:11:51,270 --> 00:11:52,190
+Never.
+
+173
+00:11:52,560 --> 00:11:55,520
+It's not like I don't understand
+what you're saying.
+
+174
+00:11:55,520 --> 00:12:01,860
+But to me, the lives of 100,000 artificial intelligences
+are worth far less than a single SDF soldier's.
+
+175
+00:12:05,370 --> 00:12:09,080
+Anyway, why did you need Kirigaya?
+
+176
+00:12:09,410 --> 00:12:13,370
+Why would you use him at the risk
+of leaking something so highly confidential?
+
+177
+00:12:13,920 --> 00:12:18,840
+Oh, right. I was telling you all this
+to help me explain that.
+
+178
+00:12:19,590 --> 00:12:24,050
+Why are the artificial Fluctlights
+unable to disobey the Taboo Index?
+
+179
+00:12:24,220 --> 00:12:27,100
+That's when I came up with a certain experiment.
+
+180
+00:12:27,100 --> 00:12:30,220
+If we were to block all of a real human's memories,
+
+181
+00:12:30,220 --> 00:12:34,140
+revert him to childhood
+and have him grow up in the virtual world,
+
+182
+00:12:34,140 --> 00:12:37,020
+would the subject be able
+to disobey the Taboo Index?
+
+183
+00:12:38,020 --> 00:12:42,860
+To carry out this experiment, we needed a subject
+who was used to moving in a virtual world.
+
+184
+00:12:42,860 --> 00:12:47,620
+And not just a week or a month's worth,
+but experience amounting to years.
+
+185
+00:12:49,490 --> 00:12:51,500
+You understand now, don't you?
+
+186
+00:12:53,910 --> 00:12:57,460
+I can't believe
+my brother got involved in something like that.
+
+187
+00:12:57,460 --> 00:12:57,920
+Sunday, July 5, 2026  Sylvain
+
+188
+00:12:58,250 --> 00:13:01,800
+Do you think it's okay to trust Mr. Kikuoka?
+
+189
+00:13:01,800 --> 00:13:05,380
+I really hope he's not hiding anything else.
+
+190
+00:13:05,630 --> 00:13:10,810
+So we're just going to have to trust
+that the STL treatment will work, huh?
+
+191
+00:13:11,520 --> 00:13:17,230
+Hey, so about Kirito and this... uh...
+this Taboo Index? What happened with that?
+
+192
+00:13:18,650 --> 00:13:22,690
+There was a boy and girl
+who used to play with Kirito,
+
+193
+00:13:22,690 --> 00:13:26,200
+and it seems like it was the girl
+who broke the Taboo Index.
+
+194
+00:13:26,200 --> 00:13:29,620
+You mean she was influenced by Kirito?
+
+195
+00:13:29,620 --> 00:13:30,490
+Yes.
+
+196
+00:13:30,830 --> 00:13:36,370
+And what she broke
+was "accessing a restricted address."
+
+197
+00:13:36,920 --> 00:13:43,090
+We confirmed the death of another Fluctlight
+in the girl's view in the restricted address.
+
+198
+00:13:43,090 --> 00:13:45,510
+Most likely, she tried to help him.
+
+199
+00:13:45,510 --> 00:13:50,930
+In other words, this girl prioritized
+someone else's life over the Taboo Index.
+
+200
+00:13:51,140 --> 00:13:54,520
+That's precisely what we've been seeking.
+
+201
+00:13:56,980 --> 00:13:58,770
+That's a lovely story, but...
+
+202
+00:13:59,770 --> 00:14:03,480
+If only it wasn't a study on weapons to kill people.
+
+203
+00:14:03,480 --> 00:14:06,610
+I agree. But I'm amazed by what that girl did.
+
+204
+00:14:07,150 --> 00:14:10,660
+After all, it's not easy to overcome yourself.
+
+205
+00:14:10,660 --> 00:14:13,080
+Does that girl have a name?
+
+206
+00:14:13,080 --> 00:14:13,490
+Yes.
+
+207
+00:14:16,410 --> 00:14:17,000
+Alice?
+
+208
+00:14:17,330 --> 00:14:20,750
+Right. That was the name of the girl in question.
+
+209
+00:14:21,090 --> 00:14:23,840
+I was blown away by the staggering coincidence.
+
+210
+00:14:24,090 --> 00:14:30,760
+Because "Alice" is also the name of the concept
+that became the foundation of the overall project.
+
+211
+00:14:31,220 --> 00:14:32,220
+Concept?
+
+212
+00:14:32,720 --> 00:14:36,180
+A highly-adaptive autonomous artificial intelligence.
+
+213
+00:14:36,390 --> 00:14:41,860
+In English, that would be Artificial Labile
+Intelligence Cybernated Existence.
+
+214
+00:14:41,860 --> 00:14:44,650
+The initials form the acronym ALICE.
+
+215
+00:14:44,860 --> 00:14:50,360
+Our ultimate goal was
+to convert an artificial Fluctlight into an ALICE.
+
+216
+00:14:52,070 --> 00:14:56,790
+Welcome to our Project Alicization.
+
+217
+00:14:58,370 --> 00:15:00,370
+That sounds so complicated.
+
+218
+00:15:00,370 --> 00:15:03,210
+I don't quite understand everything, either,
+
+219
+00:15:03,210 --> 00:15:06,420
+but they said that if they had saved
+the Fluctlight of this girl, Alice,
+
+220
+00:15:06,420 --> 00:15:08,920
+their research would've made huge advances.
+
+221
+00:15:09,840 --> 00:15:10,970
+Meaning that...
+
+222
+00:15:11,550 --> 00:15:16,060
+Remember how I said that in the virtual world,
+time passes at an amazing speed?
+
+223
+00:15:16,060 --> 00:15:16,890
+Yeah.
+
+224
+00:15:17,220 --> 00:15:21,100
+So by the time they noticed,
+two days had gone by in the virtual world,
+
+225
+00:15:21,100 --> 00:15:25,610
+and that girl's Fluctlight had already been corrected
+by the Axiom Church.
+
+226
+00:15:25,610 --> 00:15:27,360
+Corrected?
+
+227
+00:15:27,360 --> 00:15:31,320
+I thought the Fluctlights only observed each other,
+but they were given that kind of authority?
+
+228
+00:15:32,160 --> 00:15:34,740
+They said that, normally,
+it wouldn't have been possible.
+
+229
+00:15:34,740 --> 00:15:38,290
+But a number of the artificial Fluctlights
+wield the "sacred arts,"
+
+230
+00:15:38,290 --> 00:15:42,420
+which are system access rights
+in the form of magic,
+
+231
+00:15:42,420 --> 00:15:44,920
+so they think
+they might've found some kind of loophole.
+
+232
+00:15:46,050 --> 00:15:48,090
+Sorry! I have to go back.
+
+233
+00:15:48,800 --> 00:15:50,220
+You have something to do?
+
+234
+00:15:50,670 --> 00:15:54,800
+They said that they'd let me see Kirito sleeping.
+It's almost time for that.
+
+235
+00:15:55,390 --> 00:15:58,470
+Tell us later how he looked, all right?
+
+236
+00:15:59,390 --> 00:16:03,520
+He's inside a machine,
+so I might not get to see his face.
+
+237
+00:16:13,740 --> 00:16:15,490
+This one's unit four.
+
+238
+00:16:15,700 --> 00:16:17,620
+And that one's unit five.
+
+239
+00:16:17,620 --> 00:16:22,330
+Prototype one and unit six, now under construction,
+are at the Roppongi branch,
+
+240
+00:16:23,250 --> 00:16:27,170
+while two and three are installed
+in the lower shaft.
+
+241
+00:16:27,340 --> 00:16:28,550
+Ms. Aki!
+
+242
+00:16:29,590 --> 00:16:30,800
+What are you doing here?
+
+243
+00:16:31,300 --> 00:16:33,260
+Taking care of Kirigaya, of course.
+
+244
+00:16:33,260 --> 00:16:36,970
+But I thought you were a nurse
+at a hospital in Chiyoda Ward.
+
+245
+00:16:37,720 --> 00:16:40,520
+Were you pretending, just like Mr. Kikuoka?
+
+246
+00:16:40,980 --> 00:16:42,180
+Of course not.
+
+247
+00:16:42,180 --> 00:16:45,520
+Unlike that old man, I'm an actual nurse.
+
+248
+00:16:45,520 --> 00:16:47,980
+It's just that the school I graduated from
+
+249
+00:16:47,980 --> 00:16:52,360
+is the Tokyo Self-Defense Force
+Higher School of Nursing.
+
+250
+00:16:53,490 --> 00:16:55,490
+I am Sergeant First Class Natsuki Aki.
+
+251
+00:16:55,490 --> 00:16:59,620
+I pledge to protect young Kirigaya, life and limb,
+with full responsibility!
+
+252
+00:16:59,620 --> 00:17:00,660
+And so on!
+
+253
+00:17:03,750 --> 00:17:05,460
+I'm counting on you, then.
+
+254
+00:17:05,460 --> 00:17:07,420
+Right. Just leave it to me.
+
+255
+00:17:12,050 --> 00:17:15,180
+Kirito is coming back, isn't he?
+
+256
+00:17:15,890 --> 00:17:17,090
+Of course.
+
+257
+00:17:17,090 --> 00:17:23,020
+Kirito's Fluctlight is vital and active
+inside the treatment program, even as we speak.
+
+258
+00:17:23,020 --> 00:17:27,270
+And besides, we're talking about the hero
+who cleared SAO, right?
+
+259
+00:17:37,530 --> 00:17:38,700
+Ms. Asuna?
+
+260
+00:17:41,410 --> 00:17:45,500
+There's something I need to tell you.
+
+261
+00:17:45,920 --> 00:17:48,460
+No... not just you.
+
+262
+00:17:49,080 --> 00:17:53,260
+It's something I should confess
+to all former SAO players.
+
+263
+00:17:54,630 --> 00:17:58,260
+You already know that
+during the SAO incident,
+
+264
+00:17:58,260 --> 00:18:02,010
+Akihiko Kayaba and I were hiding
+in the mountains of Nagano?
+
+265
+00:18:04,680 --> 00:18:08,190
+I had a micro-bomb implanted in my chest.
+
+266
+00:18:09,610 --> 00:18:11,820
+Because of that, for two years,
+
+267
+00:18:11,820 --> 00:18:15,190
+I was forced to collaborate with him
+on his terrifying project.
+
+268
+00:18:15,650 --> 00:18:17,320
+But that wasn't really true.
+
+269
+00:18:17,950 --> 00:18:21,780
+I was well aware
+that the bomb would never go off.
+
+270
+00:18:22,450 --> 00:18:27,330
+The weapon he implanted in me was a deception
+so I wouldn't be charged with any crimes.
+
+271
+00:18:28,500 --> 00:18:33,050
+It was the only present he gave me.
+
+272
+00:18:34,170 --> 00:18:36,760
+Apparently, by the time he got into
+Toto Institute of Technology,
+
+273
+00:18:36,760 --> 00:18:40,140
+Kayaba was already
+the head of development at Argus,
+
+274
+00:18:40,680 --> 00:18:42,930
+but I didn't know anything about that,
+
+275
+00:18:42,930 --> 00:18:47,230
+all I could see was a scrawny kid who was a shut-in,
+immersed in his research.
+
+276
+00:18:51,900 --> 00:18:55,530
+You gotta step outside once in a while,
+or no ideas'll ever come to ya!
+
+277
+00:18:59,320 --> 00:19:03,620
+I need to come up with a way
+to emulate the feeling of natural light on the skin.
+
+278
+00:19:05,700 --> 00:19:08,580
+Although I began dating Kayaba,
+
+279
+00:19:11,830 --> 00:19:16,340
+I couldn't figure out
+why he never pushed me away.
+
+280
+00:19:18,170 --> 00:19:19,630
+Well, from the start...
+
+281
+00:19:21,260 --> 00:19:23,470
+...I was the one who...
+
+282
+00:19:23,470 --> 00:19:23,850
+Mass Murder in Popular VRMMO Game?
+
+283
+00:19:23,970 --> 00:19:25,180
+Akihiko Kayaba (30) Suspect
+
+284
+00:19:26,180 --> 00:19:28,390
+...didn't know anything about him.
+
+285
+00:19:29,640 --> 00:19:34,610
+When I went to his mountain lodge,
+it wasn't because I wanted to be his accomplice.
+
+286
+00:19:36,110 --> 00:19:37,230
+I...
+
+287
+00:19:38,610 --> 00:19:41,030
+...intended to kill Kayaba.
+
+288
+00:19:44,030 --> 00:19:46,870
+But... I'm sorry, Ms. Asuna.
+
+289
+00:19:47,200 --> 00:19:48,080
+I...
+
+290
+00:19:50,040 --> 00:19:51,290
+...couldn't kill him.
+
+291
+00:19:52,830 --> 00:19:57,000
+Kayaba knew I was armed with a knife.
+
+292
+00:19:57,340 --> 00:20:01,680
+He only said, "What am I going to do with you?"
+like he always did,
+
+293
+00:20:02,380 --> 00:20:05,350
+and then he went back to Aincrad.
+
+294
+00:20:09,100 --> 00:20:11,310
+I... I...
+
+295
+00:20:14,980 --> 00:20:18,900
+Neither Kirito nor I have ever blamed you for that.
+
+296
+00:20:19,780 --> 00:20:26,950
+In fact, I'm not even sure if I really bear a grudge
+against the commander, Akihiko Kayaba.
+
+297
+00:20:32,870 --> 00:20:36,420
+It's true that a lot of lives were lost
+in that incident.
+
+298
+00:20:36,420 --> 00:20:39,590
+The commander's crime isn't something
+that can ever be forgiven.
+
+299
+00:20:40,630 --> 00:20:44,050
+But... I know it sounds really selfish...
+
+300
+00:20:44,550 --> 00:20:48,760
+but that short time I spent living with Kirito
+in that world...
+
+301
+00:20:50,140 --> 00:20:54,480
+I'm sure I'll always look back on it
+as the best days of my life.
+
+302
+00:20:56,650 --> 00:21:00,650
+Just as the commander did something wrong,
+so have I, and Kirito, too...
+
+303
+00:21:00,860 --> 00:21:03,900
+And Ms. Rinko,
+you've also done something wrong.
+
+304
+00:21:04,070 --> 00:21:08,120
+But it's not as if we can make amends,
+even if we're punished for it.
+
+305
+00:21:08,370 --> 00:21:11,580
+It could be that
+we'll never see the day we're forgiven.
+
+306
+00:21:12,250 --> 00:21:17,840
+Even still, we have to continue to face
+what we've done.
+
+307
+00:21:28,600 --> 00:21:30,930
+Really, what am I going to do with you?
+
+308
+00:21:30,930 --> 00:21:33,100
+Coming all the way here?
+
+309
+00:21:36,560 --> 00:21:40,190
+What's going on?
+It's still early in the morning...
+
+310
+00:21:55,330 --> 00:21:56,750
+Was that...
+
+311
+00:21:57,710 --> 00:21:59,000
+...a dream?
+
+312
+00:23:36,180 --> 00:23:38,980
+Next time: Swordcraft Academy.
+
