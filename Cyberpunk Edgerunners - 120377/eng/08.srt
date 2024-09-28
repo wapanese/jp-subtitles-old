@@ -1,0 +1,1132 @@
+1
+00:00:16,300 --> 00:00:17,930
+Director Evans.
+
+2
+00:00:18,010 --> 00:00:20,810
+What? Where did you come from?
+
+3
+00:00:20,890 --> 00:00:24,520
+I'm sorry, sir. I did knock a few times…
+
+4
+00:00:24,600 --> 00:00:27,230
+Fine, fine… What do you want?
+
+5
+00:00:27,980 --> 00:00:31,990
+Um… May I go home for the day?
+
+6
+00:00:33,990 --> 00:00:37,320
+I'm sorry, sir.
+I had plans for this evening…
+
+7
+00:00:37,410 --> 00:00:41,200
+I hadn't realized that managing
+your schedule was also my job.
+
+8
+00:00:41,290 --> 00:00:44,000
+N-No, sir. It's just…
+
+9
+00:00:44,080 --> 00:00:47,830
+I wanted to celebrate
+my son getting into the Academy…
+
+10
+00:00:47,920 --> 00:00:52,920
+Oh! Well, that's wonderful. We all
+look forward to another legacy hire.
+
+11
+00:00:53,010 --> 00:00:56,800
+Just find someone to fetch the UG2 sample.
+
+12
+00:00:56,890 --> 00:01:00,010
+Everyone has already
+gone home at this hour…
+
+13
+00:01:02,060 --> 00:01:05,600
+I'll bring over the sample myself… so…
+
+14
+00:01:05,690 --> 00:01:10,650
+How very kind of you.
+Fetch it and get out of my sight.
+
+15
+00:01:22,830 --> 00:01:24,500
+Director Evans?
+
+16
+00:01:33,800 --> 00:01:35,010
+Wait…
+
+17
+00:01:43,520 --> 00:01:45,390
+What happened in there?
+
+18
+00:01:46,020 --> 00:01:49,310
+Lost you for a sec.
+Someone raise a jammer?
+
+19
+00:01:49,400 --> 00:01:51,520
+Transmission was stable.
+
+20
+00:01:52,190 --> 00:01:53,150
+Weird.
+
+21
+00:01:54,820 --> 00:01:57,950
+Yeesh, what a boring gig.
+
+22
+00:03:32,000 --> 00:03:36,670
+They trespassed on Arasaka premises,
+hit us in our own fucking facility.
+
+23
+00:03:36,750 --> 00:03:40,920
+The lab's research focused
+on Militech countermeasures.
+
+24
+00:03:41,010 --> 00:03:44,140
+Is this related to the runner
+who flatlined Jamie and Marcus?
+
+25
+00:03:44,220 --> 00:03:46,510
+Evans was murdered by a bullet…
+
+26
+00:03:46,600 --> 00:03:51,390
+This was sloppy, violent.
+Safe to say, not the same runner.
+
+27
+00:03:51,480 --> 00:03:55,690
+Apprehending the netrunner's our priority.
+They're too dangerous.
+
+28
+00:03:55,770 --> 00:03:58,690
+But we know neither
+their motive nor purpose…
+
+29
+00:03:58,780 --> 00:04:00,860
+Whoever they are, they're cautious.
+
+30
+00:04:00,940 --> 00:04:03,530
+Not your average runner looking to score.
+
+31
+00:04:03,610 --> 00:04:06,700
+We're Arasaka Counterintel.
+We never deal with average.
+
+32
+00:04:06,780 --> 00:04:10,040
+We'll need to take a detour
+to catch the runner's trail.
+
+33
+00:04:10,120 --> 00:04:13,120
+Are we going after Evans' killer?
+
+34
+00:04:13,210 --> 00:04:16,960
+It's two separate roads.
+We may get lucky and find that they merge.
+
+35
+00:04:17,790 --> 00:04:21,510
+Let's switch it up.
+We'll go after the fixer.
+
+36
+00:04:21,590 --> 00:04:25,300
+Who do we know that has ties to Militech?
+
+37
+00:04:25,390 --> 00:04:29,390
+But if the fixer we get
+has ties to the runner,
+
+38
+00:04:29,470 --> 00:04:34,980
+they could turn around and leak info
+about the product to Militech.
+
+39
+00:04:35,560 --> 00:04:40,440
+They'd be a poor fixer
+if they weren't a self-serving bastard.
+
+40
+00:04:40,530 --> 00:04:44,780
+But at the end of the day,
+they're only glorified corporate lapdogs.
+
+41
+00:04:45,410 --> 00:04:50,740
+We'll just remind them
+whose hand they eat off of in this city.
+
+42
+00:04:51,330 --> 00:04:53,000
+How would you go about this?
+
+43
+00:04:54,750 --> 00:04:57,790
+We tell them
+in the only language this city speaks.
+
+44
+00:05:07,510 --> 00:05:08,470
+Hey…
+
+45
+00:05:14,980 --> 00:05:18,100
+Take the fixer! Kill the others!
+
+46
+00:05:20,110 --> 00:05:21,230
+Grenade!
+
+47
+00:05:21,320 --> 00:05:22,320
+Go! Go!
+
+48
+00:05:41,380 --> 00:05:43,000
+I was very nearly killed.
+
+49
+00:05:43,090 --> 00:05:45,800
+What makes you think it was Arasaka?
+
+50
+00:05:45,880 --> 00:05:48,630
+Do you take me for a fool?
+Who else could it have been?
+
+51
+00:05:48,720 --> 00:05:52,010
+We're not paying
+for any additional liabilities.
+
+52
+00:05:52,100 --> 00:05:54,390
+And corporate immunity
+is still off the table.
+
+53
+00:05:54,470 --> 00:05:55,640
+Are you serious?!
+
+54
+00:05:55,730 --> 00:05:59,400
+We're already in the red
+with your slip-up on the Tanaka case.
+
+55
+00:05:59,480 --> 00:06:04,400
+With nothing to show for it.
+We expect returns on our investments.
+
+56
+00:06:04,480 --> 00:06:07,030
+Want more resources? Show us results.
+
+57
+00:06:07,110 --> 00:06:10,280
+And what the hell do you think
+I've been chasing?
+
+58
+00:06:10,360 --> 00:06:15,660
+You're running out of time.
+Our patience is running thin.
+
+59
+00:06:15,750 --> 00:06:19,170
+Arasaka's security
+is on higher alert than usual.
+
+60
+00:06:19,250 --> 00:06:23,840
+Goes to show just how important
+the cyberskeleton is to them.
+
+61
+00:06:23,920 --> 00:06:25,170
+You expect too much.
+
+62
+00:06:25,250 --> 00:06:30,340
+Don't lecture me on the stakes
+with all the money we've invested in this.
+
+63
+00:06:30,430 --> 00:06:34,350
+Not another enny until you earn it.
+We're done here.
+
+64
+00:06:39,440 --> 00:06:41,480
+Damn corporate brat…
+
+65
+00:06:51,610 --> 00:06:54,330
+The fixer's made contact.
+
+66
+00:06:55,120 --> 00:06:56,450
+As I predicted.
+
+67
+00:06:57,040 --> 00:06:59,080
+What a good little dog.
+
+68
+00:07:07,380 --> 00:07:08,710
+David?
+
+69
+00:07:11,180 --> 00:07:13,590
+Oh, my bad.
+
+70
+00:07:13,680 --> 00:07:15,300
+Did I wake you up?
+
+71
+00:07:15,390 --> 00:07:16,810
+Can't sleep?
+
+72
+00:07:16,890 --> 00:07:18,560
+Couldn't shut my brain off.
+
+73
+00:07:19,180 --> 00:07:20,180
+Oh.
+
+74
+00:07:20,270 --> 00:07:21,100
+I'll turn it off.
+
+75
+00:07:21,190 --> 00:07:22,730
+Aren't you watching?
+
+76
+00:07:22,810 --> 00:07:24,810
+No, I just had it on…
+
+77
+00:07:24,900 --> 00:07:25,730
+Oh.
+
+78
+00:07:26,400 --> 00:07:31,360
+250K to the Moon…
+Huh, cheaper than I thought.
+
+79
+00:07:31,450 --> 00:07:33,360
+For a one-way ticket.
+
+80
+00:07:33,450 --> 00:07:35,490
+Well, yeah.
+
+81
+00:07:36,700 --> 00:07:37,870
+You remembered…
+
+82
+00:07:37,950 --> 00:07:39,000
+Huh?
+
+83
+00:07:39,080 --> 00:07:41,210
+Nothing. I'm going back to bed.
+
+84
+00:07:41,960 --> 00:07:43,620
+Okay. 'Night.
+
+85
+00:07:51,800 --> 00:07:56,010
+The world's greatest corporation
+conducting illicit business at a diner.
+
+86
+00:07:56,600 --> 00:07:59,770
+I thought you'd find
+the familiarity reassuring.
+
+87
+00:07:59,850 --> 00:08:02,270
+I won't pick hairs.
+I'm here for your answer.
+
+88
+00:08:02,350 --> 00:08:07,400
+The cyberskeleton project is
+a delicate topic even within Arasaka.
+
+89
+00:08:07,480 --> 00:08:11,780
+It turned problematic when Tanaka
+over-consolidated the operational data.
+
+90
+00:08:11,860 --> 00:08:14,410
+How much does Militech already know?
+
+91
+00:08:14,490 --> 00:08:16,320
+Information is the blood of my trade.
+
+92
+00:08:16,410 --> 00:08:18,910
+I'll need some assurances
+before I say any more.
+
+93
+00:08:18,990 --> 00:08:23,330
+We respect that
+you're the best man for the job.
+
+94
+00:08:23,410 --> 00:08:27,840
+We'll gladly provide the compensation
+Militech foolishly denied you.
+
+95
+00:08:27,920 --> 00:08:30,920
+As for the Tanaka mess,
+consider your debt settled.
+
+96
+00:08:31,010 --> 00:08:32,170
+Wonderful.
+
+97
+00:08:32,260 --> 00:08:35,550
+However, we have some conditions as well.
+
+98
+00:08:36,470 --> 00:08:37,430
+Let's hear it.
+
+99
+00:08:37,510 --> 00:08:42,810
+We need to eliminate anyone
+who knows about the cyberskeleton.
+
+100
+00:08:42,890 --> 00:08:44,480
+Done.
+
+101
+00:08:44,560 --> 00:08:46,230
+And one more thing.
+
+102
+00:08:46,310 --> 00:08:47,480
+Yes?
+
+103
+00:08:47,560 --> 00:08:49,110
+After Tanaka died,
+
+104
+00:08:49,190 --> 00:08:54,610
+there's been a runner interfering
+with our recovery on the corrupt data.
+
+105
+00:08:54,700 --> 00:08:57,070
+Know anything about it?
+
+106
+00:08:57,780 --> 00:08:59,030
+Not that I can recall.
+
+107
+00:08:59,120 --> 00:08:59,950
+I see.
+
+108
+00:09:00,030 --> 00:09:02,910
+We're quite curious about this case.
+
+109
+00:09:03,000 --> 00:09:08,710
+Even if this were Militech,
+I can't even imagine why they'd do this.
+
+110
+00:09:08,790 --> 00:09:10,630
+From what my sources tell me,
+
+111
+00:09:10,710 --> 00:09:15,130
+no one else knows about Tanaka's ties
+to the cyberskeleton project.
+
+112
+00:09:15,220 --> 00:09:16,090
+An inside job?
+
+113
+00:09:16,180 --> 00:09:21,680
+No. It's impossible to move internally
+without leaving a trail.
+
+114
+00:09:21,760 --> 00:09:27,350
+It's more natural to think that
+it's a skilled runner from the outside.
+
+115
+00:09:27,440 --> 00:09:30,310
+Seems to me like a job for a fixer.
+
+116
+00:09:30,980 --> 00:09:32,860
+Is this an official commission?
+
+117
+00:09:33,440 --> 00:09:38,360
+One million to take them alive.
+Half the price for their head.
+
+118
+00:09:39,820 --> 00:09:41,410
+I accept.
+
+119
+00:11:20,880 --> 00:11:23,220
+Take that!
+
+120
+00:11:24,010 --> 00:11:25,180
+Out of juice!
+
+121
+00:11:25,260 --> 00:11:26,720
+Gotcha.
+
+122
+00:11:45,870 --> 00:11:47,160
+What are you doing?!
+
+123
+00:11:48,120 --> 00:11:50,080
+Ah… My bad.
+
+124
+00:11:51,500 --> 00:11:53,040
+Later, David.
+
+125
+00:11:53,120 --> 00:11:54,130
+Yeah…
+
+126
+00:11:59,590 --> 00:12:01,170
+Falco! Lemme off too!
+
+127
+00:12:01,260 --> 00:12:02,300
+What?
+
+128
+00:12:05,260 --> 00:12:08,010
+Well dang,
+guess the after-party's just us two.
+
+129
+00:12:08,100 --> 00:12:11,020
+I've got somewhere to be, too.
+
+130
+00:12:11,100 --> 00:12:14,440
+That so? Bunch of killjoys,
+you, one and all.
+
+131
+00:12:15,690 --> 00:12:16,980
+David!
+
+132
+00:12:19,110 --> 00:12:20,900
+No after-party today?
+
+133
+00:12:20,990 --> 00:12:23,610
+Can't get drunk with those two boomers.
+
+134
+00:12:23,700 --> 00:12:25,990
+Can't promise I'll be any more fun.
+
+135
+00:12:26,070 --> 00:12:27,830
+Don't underestimate yourself!
+
+136
+00:12:28,620 --> 00:12:30,490
+Hey… Wanna take a walk?
+
+137
+00:12:30,580 --> 00:12:33,290
+Huh? Sure, I guess…
+
+138
+00:12:33,370 --> 00:12:34,580
+Yes!
+
+139
+00:12:38,500 --> 00:12:41,130
+So… you doing okay?
+
+140
+00:12:41,210 --> 00:12:42,210
+What?
+
+141
+00:12:42,300 --> 00:12:44,720
+What was that today?
+
+142
+00:12:44,800 --> 00:12:46,430
+What was what?
+
+143
+00:12:46,510 --> 00:12:47,760
+You know what I mean.
+
+144
+00:12:48,390 --> 00:12:49,680
+It was nothing.
+
+145
+00:12:49,760 --> 00:12:51,810
+This isn't the first time it's happened.
+
+146
+00:12:52,680 --> 00:12:54,480
+You thought I didn't notice?
+
+147
+00:12:55,480 --> 00:12:56,600
+Whatever.
+
+148
+00:12:56,690 --> 00:12:58,730
+A girl's intuition, you know?
+
+149
+00:12:58,810 --> 00:12:59,820
+What girl?
+
+150
+00:12:59,900 --> 00:13:01,280
+Shut up.
+
+151
+00:13:03,190 --> 00:13:07,280
+You're the only one I watch
+that closely, you know.
+
+152
+00:13:08,200 --> 00:13:11,490
+Come on, David. What's wrong?
+
+153
+00:13:12,660 --> 00:13:13,830
+Nothing.
+
+154
+00:13:13,910 --> 00:13:15,330
+I said cut the bull.
+
+155
+00:13:15,410 --> 00:13:17,120
+It's got nothing to do with you.
+
+156
+00:13:17,210 --> 00:13:21,380
+Like hell it doesn't.
+I'm putting my life in your hands.
+
+157
+00:13:22,800 --> 00:13:24,090
+Sorry.
+
+158
+00:13:26,470 --> 00:13:28,010
+I was thinking…
+
+159
+00:13:28,590 --> 00:13:29,430
+Yeah?
+
+160
+00:13:30,050 --> 00:13:32,390
+You should lay off
+the implants for a while.
+
+161
+00:13:32,970 --> 00:13:35,140
+Don't worry. I've got your back!
+
+162
+00:13:35,810 --> 00:13:36,770
+You?
+
+163
+00:13:36,850 --> 00:13:38,520
+I'm being serious.
+
+164
+00:13:39,860 --> 00:13:43,190
+Remember the psycho
+that flatlined my brother?
+
+165
+00:13:43,900 --> 00:13:45,240
+Yeah.
+
+166
+00:13:45,320 --> 00:13:49,410
+I don't… wanna see you end up like that.
+
+167
+00:13:51,120 --> 00:13:51,950
+Yeah.
+
+168
+00:14:24,820 --> 00:14:27,820
+They're still sending runners?
+
+169
+00:14:59,730 --> 00:15:00,600
+Hm?
+
+170
+00:15:00,690 --> 00:15:03,110
+Who are you? W-What the…
+
+171
+00:15:34,550 --> 00:15:35,390
+Wait…
+
+172
+00:16:18,220 --> 00:16:19,600
+David!
+
+173
+00:16:26,480 --> 00:16:28,570
+Rise and shine.
+
+174
+00:16:29,190 --> 00:16:30,190
+Doc…
+
+175
+00:16:30,280 --> 00:16:32,530
+Symptoms settling down?
+
+176
+00:16:32,610 --> 00:16:33,650
+Yeah…
+
+177
+00:16:37,780 --> 00:16:39,330
+When did it start?
+
+178
+00:16:39,410 --> 00:16:40,490
+What?
+
+179
+00:16:40,580 --> 00:16:44,500
+Shaky hands, dizziness,
+nausea, usual suspects.
+
+180
+00:16:44,580 --> 00:16:47,000
+A little while ago.
+
+181
+00:16:47,080 --> 00:16:49,290
+Why didn't you tell me?
+
+182
+00:16:49,380 --> 00:16:51,170
+Thought it was temporary.
+
+183
+00:16:51,260 --> 00:16:54,300
+Looks like side-effects
+are finally catching up with you.
+
+184
+00:16:54,380 --> 00:16:59,430
+Of course, it's crazy enough
+how you've been fine until now.
+
+185
+00:16:59,510 --> 00:17:01,060
+Why now?
+
+186
+00:17:01,140 --> 00:17:04,850
+Lay off the chrome for a while.
+
+187
+00:17:04,940 --> 00:17:08,400
+You're already one foot
+in the psycho zone.
+
+188
+00:17:08,480 --> 00:17:11,070
+Then gimme stronger meds for it!
+
+189
+00:17:11,150 --> 00:17:16,110
+Shit. You ain't hearing me.
+Or have you already lost your mind?
+
+190
+00:17:16,200 --> 00:17:18,950
+Ain't no such miracle drug in exist…
+
+191
+00:17:20,370 --> 00:17:26,460
+Think I came for jokes?
+Take my fucking money…
+
+192
+00:17:26,540 --> 00:17:28,880
+and gimme the fucking meds!
+
+193
+00:17:28,960 --> 00:17:30,340
+David!
+
+194
+00:17:39,510 --> 00:17:45,100
+There. Your last prescription. Nine times
+standard dosage, good for nine days.
+
+195
+00:17:45,180 --> 00:17:49,730
+It'll send you straight over the edge
+and right to hell.
+
+196
+00:17:50,400 --> 00:17:53,480
+I'm sorry. I won't let it happen again.
+
+197
+00:17:53,570 --> 00:17:54,690
+It's fine.
+
+198
+00:17:54,780 --> 00:17:59,870
+The fact that you need those meds means
+you won't be coming back here anymore.
+
+199
+00:18:01,120 --> 00:18:04,870
+A kid off the block pushing XBDs and now…
+
+200
+00:18:05,660 --> 00:18:10,540
+Go be a legend or
+whatever the fuck you punks do.
+
+201
+00:18:18,590 --> 00:18:20,890
+Just another tale for the next dreamer…
+
+202
+00:18:21,390 --> 00:18:25,310
+David! Wait! What was that?
+
+203
+00:18:25,890 --> 00:18:27,310
+Don't tell the guys.
+
+204
+00:18:28,100 --> 00:18:29,310
+I don't understand.
+
+205
+00:18:33,400 --> 00:18:34,230
+Hey!
+
+206
+00:18:39,700 --> 00:18:43,200
+Your body, your mind…
+They have limits, David. You knew that.
+
+207
+00:18:43,280 --> 00:18:46,580
+Normal meds don't do it for you anymore.
+
+208
+00:18:46,660 --> 00:18:48,040
+Isn't it time to call quits?
+
+209
+00:18:49,210 --> 00:18:53,960
+I can't watch you do this to yourself.
+Scale back your cyberware…
+
+210
+00:18:54,630 --> 00:18:56,090
+I can't do that.
+
+211
+00:18:56,170 --> 00:18:57,050
+Why not?
+
+212
+00:18:58,090 --> 00:19:02,300
+Mom and Maine…
+They all left me something to do.
+
+213
+00:19:03,300 --> 00:19:05,310
+But I haven't done nothing yet.
+
+214
+00:19:05,390 --> 00:19:08,770
+But you can't keep going on like this…
+
+215
+00:19:08,850 --> 00:19:10,980
+I'll be fine.
+
+216
+00:19:11,060 --> 00:19:15,520
+How could you say that?
+Do you really think you're special?
+
+217
+00:19:16,610 --> 00:19:21,110
+I withstood the Sandevistan.
+I'm not normal.
+
+218
+00:19:22,490 --> 00:19:28,330
+So you're a little more sturdy than
+everyone else. But you're still human.
+
+219
+00:19:31,210 --> 00:19:32,830
+I shot a woman.
+
+220
+00:19:32,920 --> 00:19:33,750
+Huh?
+
+221
+00:19:35,090 --> 00:19:38,130
+She was around the same age as my mom.
+
+222
+00:19:38,880 --> 00:19:40,630
+She also had a son like me.
+
+223
+00:19:42,970 --> 00:19:45,600
+A harmless bystander. A normal person.
+
+224
+00:19:47,100 --> 00:19:50,100
+I don't know how many I've killed anymore.
+
+225
+00:19:51,730 --> 00:19:54,100
+It doesn't even make me pause anymore.
+
+226
+00:19:55,480 --> 00:19:58,980
+Maybe I really am going crazy.
+
+227
+00:19:59,610 --> 00:20:00,530
+David…
+
+228
+00:20:01,450 --> 00:20:05,200
+I ain't normal.
+Like you said before, I'm different.
+
+229
+00:20:05,280 --> 00:20:06,620
+You're not.
+
+230
+00:20:06,700 --> 00:20:07,990
+I am!
+
+231
+00:20:08,700 --> 00:20:10,330
+You're not.
+
+232
+00:20:10,410 --> 00:20:12,120
+You wouldn't understand.
+
+233
+00:20:13,580 --> 00:20:17,000
+You left the crew after Maine died.
+
+234
+00:20:17,090 --> 00:20:18,500
+That's because…
+
+235
+00:20:18,590 --> 00:20:20,260
+I'm not blaming you.
+
+236
+00:20:20,340 --> 00:20:21,510
+Why not?
+
+237
+00:20:21,590 --> 00:20:24,380
+You shouldn't have to live this life.
+
+238
+00:20:24,470 --> 00:20:27,890
+No, David. That's not what I…
+
+239
+00:20:27,970 --> 00:20:30,810
+Then you'll come back?
+
+240
+00:20:30,890 --> 00:20:34,310
+Let's go back to the way things were,
+working together.
+
+241
+00:20:38,400 --> 00:20:41,650
+I can't right now.
+Wait for me a little while longer.
+
+242
+00:20:41,740 --> 00:20:42,570
+What for?
+
+243
+00:20:43,650 --> 00:20:46,280
+There's something I need to do first.
+
+244
+00:20:46,370 --> 00:20:48,120
+Like what?
+
+245
+00:20:48,200 --> 00:20:49,790
+I can't say.
+
+246
+00:20:50,410 --> 00:20:51,500
+Why?
+
+247
+00:20:51,580 --> 00:20:52,540
+Sorry.
+
+248
+00:20:53,210 --> 00:20:55,000
+Because you don't trust me.
+
+249
+00:20:55,710 --> 00:20:57,000
+I'm sorry.
+
+250
+00:20:58,090 --> 00:21:01,170
+Okay. I'll stop asking you about it.
+
+251
+00:21:01,260 --> 00:21:02,090
+Okay.
+
+252
+00:21:03,720 --> 00:21:07,430
+Maybe we should go our separate ways.
+
+253
+00:21:08,180 --> 00:21:10,600
+No! That's not true David.
+
+254
+00:21:18,110 --> 00:21:21,860
+I'm sorry, David. I have to go.
+
+255
+00:21:21,940 --> 00:21:24,360
+Huh? Where?
+
+256
+00:21:25,820 --> 00:21:27,200
+I have to go…
+
+257
+00:21:29,280 --> 00:21:30,740
+Okay.
+
+258
+00:21:30,830 --> 00:21:32,370
+We'll talk when I get home.
+
+259
+00:21:33,080 --> 00:21:34,910
+Wait for me.
+
+260
+00:21:49,180 --> 00:21:51,760
+The same ID as the runner from before.
+
+261
+00:21:52,930 --> 00:21:54,310
+There you are…
+
+262
+00:22:19,120 --> 00:22:22,340
+Didn't think it would be so easy.
+
+263
+00:22:26,300 --> 00:22:29,930
+This is our passport into Arasaka.
+
+264
+00:22:30,010 --> 00:22:32,300
+Excellent job, Kiwi.
+
