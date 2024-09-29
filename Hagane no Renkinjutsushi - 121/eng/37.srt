@@ -1,0 +1,2139 @@
+1
+00:00:16,160 --> 00:00:19,160
+Roy Mustang observation journal...
+
+2
+00:00:19,660 --> 00:00:20,570
+What is this?
+
+3
+00:00:20,570 --> 00:00:25,170
+As it turns out, I've been ordered by 
+Internal Affairs to inspect my superior officer.
+
+4
+00:00:26,920 --> 00:00:29,580
+"In order that we may understand how your days are spent,
+
+5
+00:00:29,580 --> 00:00:34,260
+those who are most suited to the task 
+are to conduct a top-secret inspection."
+
+6
+00:00:34,260 --> 00:00:37,420
+So, Lieutenant Havoc, 
+you're inspecting Colonel Mustang?
+
+7
+00:00:37,420 --> 00:00:40,920
+Yeah. But I can't investigate him 
+all on my own.
+
+8
+00:00:40,920 --> 00:00:42,640
+I want all of you to help me.
+
+9
+00:00:45,680 --> 00:00:47,370
+"Saturday, 0946 hours:
+
+10
+00:00:47,370 --> 00:00:52,150
+Colonel Mustang bluntly calls the documents before him that are due at noon to be a pain."
+
+11
+00:00:52,690 --> 00:00:54,810
+"Similarly, Saturday, 1026 hours:
+
+12
+00:00:54,810 --> 00:00:58,160
+the Colonel attempted to feed Lieutenant Hawkeye's dog."
+
+13
+00:00:58,410 --> 00:01:00,360
+"Also, 1103 hours:
+
+14
+00:01:00,360 --> 00:01:03,060
+the Colonel suddenly began to clean the windows."
+
+15
+00:01:03,060 --> 00:01:05,160
+"Will he be able to 
+meet his deadline?"
+
+16
+00:01:05,420 --> 00:01:07,320
+"1147 hours:
+
+17
+00:01:07,320 --> 00:01:10,610
+the Colonel begins signing the documents as 
+he makes a fuss about not having enough time."
+
+18
+00:01:10,610 --> 00:01:12,170
+"But he <i>did</i> have time."
+
+19
+00:01:12,830 --> 00:01:16,180
+"In the afternoon, the Colonel conducted an 
+inspection of the fire-fighting facilities around town."
+
+20
+00:01:16,180 --> 00:01:19,680
+"At this time, the Colonel received a letter 
+from the woman working at the flower shop."
+
+21
+00:01:20,320 --> 00:01:22,680
+"It appears that the letter is an invitation to a date."
+
+22
+00:01:23,160 --> 00:01:25,180
+"Have witnessed tickets to a play."
+
+23
+00:01:25,440 --> 00:01:27,590
+"The Colonel readied to leave,
+
+24
+00:01:27,590 --> 00:01:30,500
+saying he was gathering municipal intelligence, and would go directly home afterward."
+
+25
+00:01:30,500 --> 00:01:32,690
+"Judging by his face, 
+he is clearly going on a date."
+
+26
+00:01:33,690 --> 00:01:36,640
+Just a minute! The woman at the flower shop! You mean Grace?!
+
+27
+00:01:36,640 --> 00:01:39,180
+I thought her attitude toward me had cooled off lately. Is that what's going on?!
+
+28
+00:01:39,180 --> 00:01:41,750
+"What's this, Lieutenant? 
+You were seeing that girl?"
+
+29
+00:01:41,750 --> 00:01:43,600
+"You're out of luck 
+against the Colonel."
+
+30
+00:01:43,600 --> 00:01:45,550
+"I'm sorry to hear that. Please give up on her."
+
+31
+00:01:45,550 --> 00:01:46,960
+Stop making light of it!
+
+32
+00:01:47,480 --> 00:01:49,960
+"How could you guys 
+know how I feel?!"
+
+33
+00:01:49,960 --> 00:01:52,420
+"It's your fault you got dumped. No question about it."
+
+34
+00:01:52,420 --> 00:01:53,550
+"Shut up, you big dope!"
+
+35
+00:01:53,550 --> 00:01:55,660
+"No, you are!"
+
+36
+00:01:54,650 --> 00:01:55,660
+"What did you call me?!"
+
+37
+00:01:55,660 --> 00:01:56,890
+"Attaboy, get him, get him!"
+
+38
+00:01:56,890 --> 00:01:59,470
+"Don't be so rough on each other. 
+Let's all get along."
+
+39
+00:01:59,470 --> 00:02:00,970
+I quit! I quit!
+
+40
+00:02:01,260 --> 00:02:04,470
+How am I supposed to do this investigation?!
+
+41
+00:02:05,900 --> 00:02:09,580
+Man cannot obtain anything 
+without first sacrificing something.
+
+42
+00:02:09,580 --> 00:02:14,120
+Here at the Central Command Center, 
+there are brave soldiers who have no trouble
+
+43
+00:02:14,120 --> 00:02:16,490
+sacrificing whatever it takes in order to achieve peace.
+
+44
+00:02:16,490 --> 00:02:22,330
+These are the tales of love and courage of the Flame Alchemist—Colonel Roy Mustang—and his men.
+
+45
+00:02:30,920 --> 00:02:36,660
+Far away, far away, our dreams will never fade
+
+46
+00:02:30,920 --> 00:02:36,660
+tooku tooku omoi hatenaku
+
+47
+00:02:36,660 --> 00:02:39,960
+If only the two of us could go back to
+
+48
+00:02:36,660 --> 00:02:39,960
+futari ga mujaki ni waratteta
+
+49
+00:02:39,960 --> 00:02:43,810
+the days when we laughed so innocently
+
+50
+00:02:39,960 --> 00:02:43,810
+ano koro ni modoreru nara
+
+51
+00:02:43,810 --> 00:02:44,910
+the days when we laughed so innocently
+
+52
+00:02:43,810 --> 00:02:44,910
+ano koro ni modoreru nara
+
+53
+00:02:49,190 --> 00:02:53,740
+Just like glassware
+
+54
+00:02:49,190 --> 00:02:53,740
+konagona ni kudaketa
+
+55
+00:02:54,490 --> 00:02:59,340
+that has been smashed to pieces,
+
+56
+00:02:54,490 --> 00:02:59,340
+glass-zaiku no you na
+
+57
+00:03:00,470 --> 00:03:07,130
+we're putting together the fragments of our memories
+
+58
+00:03:00,470 --> 00:03:07,130
+omoide no kakera o atsumeteru
+
+59
+00:03:07,130 --> 00:03:09,920
+It's the important things that you notice
+
+60
+00:03:07,130 --> 00:03:09,920
+daiji na mono wa itsudatte
+
+61
+00:03:09,920 --> 00:03:12,740
+It's the important things that you notice
+
+62
+00:03:09,920 --> 00:03:12,740
+daiji na mono wa itsudatte
+
+63
+00:03:12,740 --> 00:03:18,490
+once you've lost them
+
+64
+00:03:12,740 --> 00:03:18,490
+nakushite kara kizuku yo
+
+65
+00:03:20,090 --> 00:03:25,740
+Oh, please, oh, please, stop time for me,
+
+66
+00:03:20,090 --> 00:03:25,740
+douka douka jikan o tomete
+
+67
+00:03:25,740 --> 00:03:31,320
+and engrave the way you look right now into my heart
+
+68
+00:03:25,740 --> 00:03:31,320
+kimi no omokage o kono mune ni kizandekure
+
+69
+00:03:31,320 --> 00:03:36,870
+And if, and if, I were ever allowed to,
+
+70
+00:03:31,320 --> 00:03:36,870
+moshimo moshimo yurusareru nara
+
+71
+00:03:36,870 --> 00:03:40,280
+I would be willing to sacrifice everything
+
+72
+00:03:36,870 --> 00:03:40,280
+subete o gisei ni shitemo ii
+
+73
+00:03:40,280 --> 00:03:45,930
+just to see that smiling face one more time
+
+74
+00:03:40,280 --> 00:03:45,930
+ano egao o mou ichido
+
+75
+00:03:53,980 --> 00:03:56,000
+The Fighting Lieutenant
+
+76
+00:03:53,980 --> 00:03:56,000
+The Fighting Lieutenant
+
+77
+00:04:01,960 --> 00:04:03,010
+Yo,
+
+78
+00:04:03,010 --> 00:04:04,990
+Black Hayate.
+
+79
+00:04:05,570 --> 00:04:07,910
+Sure must be nice for you,
+
+80
+00:04:07,910 --> 00:04:10,520
+leading a happy-go-lucky life.
+
+81
+00:04:15,780 --> 00:04:18,360
+What's the matter with 
+Lieutenant Havoc?
+
+82
+00:04:18,630 --> 00:04:20,920
+He must've had his heart broken again or something.
+
+83
+00:04:20,120 --> 00:04:20,920
+That was sharp.
+
+84
+00:04:20,920 --> 00:04:23,730
+You can't get much time off 
+when you take on military duties.
+
+85
+00:04:23,730 --> 00:04:26,870
+It must be hard finding a woman who will go out with you.
+
+86
+00:04:27,150 --> 00:04:28,410
+He's pathetic.
+
+87
+00:04:28,410 --> 00:04:31,230
+If he were a man, he'd find a way to handle both his work and women.
+
+88
+00:04:31,230 --> 00:04:32,870
+<i>It's your fault!</i>
+
+89
+00:04:32,870 --> 00:04:36,680
+Still, as things are, 
+it's interfering with his duties.
+
+90
+00:04:36,680 --> 00:04:39,620
+Hey, someone introduce a woman to Havoc.
+
+91
+00:04:40,880 --> 00:04:42,410
+<i>Please don't ask the impossible!</i>
+
+92
+00:04:42,410 --> 00:04:43,770
+<i>I want someone to introduce me!</i>
+
+93
+00:04:43,770 --> 00:04:45,380
+<i>Colonel, why don't you share one of yours?!</i>
+
+94
+00:04:46,300 --> 00:04:47,390
+What?
+
+95
+00:04:47,390 --> 00:04:49,460
+Nothing.
+
+96
+00:04:49,460 --> 00:04:52,400
+Does anyone know what 
+kind of woman Havoc likes?
+
+97
+00:04:52,400 --> 00:04:54,880
+Uh, the other day, when I was out drinking with Havoc,
+
+98
+00:04:54,880 --> 00:04:59,400
+he complained to me, "Aren't there any 
+cheerful, well-adjusted beauties out there?"
+
+99
+00:04:59,400 --> 00:05:00,770
+All right, Warrant Officer Falman,
+
+100
+00:05:00,770 --> 00:05:03,400
+secure a cheerful, 
+well-adjusted beauty at once.
+
+101
+00:05:03,400 --> 00:05:04,650
+Introduce her to Lt. Havoc.
+
+102
+00:05:04,650 --> 00:05:06,160
+You want <i>me</i> to?!
+
+103
+00:05:06,160 --> 00:05:08,360
+Remember, you're on a mission.
+
+104
+00:05:09,160 --> 00:05:11,070
+There's a mission for me?
+
+105
+00:05:11,070 --> 00:05:15,620
+All the materials on Brig. Gen. Basque Grand, 
+Doctor Marcoh, and Shou Tucker.
+
+106
+00:05:16,360 --> 00:05:20,070
+Also, put together all the records on 
+the 5th Laboratory and the 2nd Prison.
+
+107
+00:05:20,070 --> 00:05:21,130
+Right.
+
+108
+00:05:21,130 --> 00:05:24,920
+Does that include the items 
+lost in the Central Library fire?
+
+109
+00:05:24,920 --> 00:05:28,640
+Do not ask me the obvious. That is why I called on you.
+
+110
+00:05:29,010 --> 00:05:32,940
+<i>If this can get me into the 
+Court-Martial Office again,</i>
+
+111
+00:05:32,940 --> 00:05:35,660
+<i>I might be able to more closely investigate the incident involving Brig. Gen. Hughes.</i>
+
+112
+00:05:35,660 --> 00:05:36,660
+What is your answer?
+
+113
+00:05:36,660 --> 00:05:38,650
+Y-Yes! Understood!
+
+114
+00:05:39,330 --> 00:05:43,230
+A mission, he says. 
+I haven't had any training in flirting.
+
+115
+00:05:43,230 --> 00:05:44,650
+What's the world coming to?
+
+116
+00:05:49,930 --> 00:05:51,680
+I beg your pardon! 
+Are you all right?!
+
+117
+00:05:51,680 --> 00:05:52,530
+Scieszka?
+
+118
+00:05:52,530 --> 00:05:53,870
+Warrant Officer Falman!
+
+119
+00:05:54,760 --> 00:05:56,060
+Long time no see.
+
+120
+00:05:56,060 --> 00:05:57,370
+Have you been 
+getting along okay?
+
+121
+00:05:57,720 --> 00:05:59,250
+Yes...
+
+122
+00:05:59,250 --> 00:06:00,380
+more or less.
+
+123
+00:06:02,270 --> 00:06:03,380
+I know!
+
+124
+00:06:03,820 --> 00:06:07,490
+Scieszka, I'm looking for a cheerful, well-adjusted beauty right now.
+
+125
+00:06:07,490 --> 00:06:08,810
+Do you know anyone like that?
+
+126
+00:06:08,810 --> 00:06:10,040
+Do I know anyone?
+
+127
+00:06:10,040 --> 00:06:15,160
+So what you're insinuating is that I'm <i>not</i> a cheerful, well-adjusted beauty, huh?
+
+128
+00:06:15,160 --> 00:06:16,890
+Ah, it's not like that!
+
+129
+00:06:17,380 --> 00:06:21,470
+Under the Colonel's orders, I have to introduce Lt. Havoc to a new girlfriend.
+
+130
+00:06:21,470 --> 00:06:22,900
+Girlfriend?
+
+131
+00:06:23,190 --> 00:06:24,730
+Do you have anyone in mind?
+
+132
+00:06:24,730 --> 00:06:26,400
+Oh, in that case,
+
+133
+00:06:26,490 --> 00:06:27,900
+I have a grand idea!
+
+134
+00:06:29,660 --> 00:06:31,910
+Major Armstrong's sister?
+
+135
+00:06:31,910 --> 00:06:32,970
+Yes.
+
+136
+00:06:32,970 --> 00:06:36,530
+He said that she is of marrying age but is so shy that she cannot find a boyfriend.
+
+137
+00:06:49,270 --> 00:06:51,260
+Incredible...
+
+138
+00:06:52,060 --> 00:06:53,790
+I think I'd better go...
+
+139
+00:06:55,300 --> 00:06:58,180
+This is a once-in-a-lifetime opportunity for you!
+
+140
+00:06:58,180 --> 00:07:01,000
+If she starts talking about tying the knot, you'll be taking one wealthy wife!
+
+141
+00:07:01,000 --> 00:07:03,200
+You'll be on easy street!
+
+142
+00:07:03,200 --> 00:07:06,030
+But I haven't even met her yet.
+
+143
+00:07:06,270 --> 00:07:10,530
+From what Major Armstrong says, 
+she has the same dashing looks that he does.
+
+144
+00:07:10,530 --> 00:07:12,900
+The Major's sister 
+looks just like him?
+
+145
+00:07:16,040 --> 00:07:17,770
+That's it, I'm leaving!
+
+146
+00:07:17,770 --> 00:07:21,330
+Thank you for coming, Lt. Havoc!
+
+147
+00:07:21,330 --> 00:07:23,080
+We've been waiting for you!
+
+148
+00:07:23,080 --> 00:07:24,550
+Well, good luck!
+
+149
+00:07:27,630 --> 00:07:32,880
+Over the span of 180 years, the Armstrong family has been involved in enterprises
+
+150
+00:07:32,880 --> 00:07:37,440
+that are deeply tied in with the political and economic affairs of this land.
+
+151
+00:07:37,440 --> 00:07:41,640
+For generations, it has been a noble family that has served in the military government
+
+152
+00:07:41,640 --> 00:07:45,120
+and has been a pillar of support 
+to this nation.
+
+153
+00:07:45,120 --> 00:07:47,650
+I myself have served in 
+the military government...
+
+154
+00:07:47,650 --> 00:07:51,310
+Every time I hear Father tell the story, it is marvelous.
+
+155
+00:07:52,080 --> 00:07:53,160
+Oh my, Dear,
+
+156
+00:07:53,750 --> 00:07:55,730
+are you boasting 
+to the guests again?
+
+157
+00:07:55,730 --> 00:07:57,160
+Oh, Mother...
+
+158
+00:07:57,160 --> 00:07:58,420
+<i>Mother?</i>
+
+159
+00:07:59,520 --> 00:08:01,160
+<i>Thank goodness!</i>
+
+160
+00:08:01,160 --> 00:08:03,120
+<i>The mother is quite norm—</i>
+
+161
+00:08:04,670 --> 00:08:08,170
+<i>She's huge! 
+She's not at all normal!</i>
+
+162
+00:08:09,620 --> 00:08:11,650
+<i>Hold on a minute now.</i>
+
+163
+00:08:12,170 --> 00:08:14,680
+<i>The father is wide and fat,</i>
+
+164
+00:08:14,680 --> 00:08:17,180
+<i>and the mother is long and tall.</i>
+
+165
+00:08:17,750 --> 00:08:21,110
+<i>Add them together, and their son 
+would sum up like this.</i>
+
+166
+00:08:22,100 --> 00:08:25,190
+<i>Which means, when it 
+comes to their daughter...</i>
+
+167
+00:08:30,580 --> 00:08:34,950
+Catch me if you can!
+
+168
+00:08:35,430 --> 00:08:38,960
+No, both parents' features don't always necessarily get passed down.
+
+169
+00:08:38,960 --> 00:08:41,470
+There's a chance that she leans more toward one side.
+
+170
+00:08:41,470 --> 00:08:44,210
+Now then, Lieutenant, 
+allow me to introduce my sister.
+
+171
+00:08:44,460 --> 00:08:47,710
+Come along, Catherine. 
+Don't be shy. Come in here.
+
+172
+00:08:49,840 --> 00:08:50,940
+<i>Which is she?!</i>
+
+173
+00:08:50,940 --> 00:08:53,300
+<i>Does she take after her father, 
+or her mother?!</i>
+
+174
+00:08:53,300 --> 00:08:55,180
+<i>I couldn't stand it either way, but between the two of them,</i>
+
+175
+00:08:55,180 --> 00:08:56,760
+<i>at least let her 
+take after her mother!</i>
+
+176
+00:08:56,760 --> 00:08:57,720
+Um...
+
+177
+00:08:58,230 --> 00:08:59,720
+Uh...
+
+178
+00:09:00,720 --> 00:09:02,730
+Nice to meet you.
+
+179
+00:09:03,250 --> 00:09:05,620
+I'm Catherine Elle Armstrong.
+
+180
+00:09:05,620 --> 00:09:08,230
+<i>Hooray for mutations!</i>
+
+181
+00:09:08,230 --> 00:09:11,320
+Well? Isn't she beautiful? She looks just like me.
+
+182
+00:09:11,320 --> 00:09:11,980
+Which part?!
+
+183
+00:09:12,380 --> 00:09:14,550
+Her lower eyelashes, and such.
+
+184
+00:09:14,550 --> 00:09:15,990
+You don't say.
+
+185
+00:09:15,990 --> 00:09:18,870
+Come now, Catherine. 
+Don't be shy.
+
+186
+00:09:18,870 --> 00:09:20,000
+R-Right.
+
+187
+00:09:20,000 --> 00:09:22,500
+So, Catherine-san, 
+what are your hobbies?
+
+188
+00:09:22,500 --> 00:09:25,920
+Let's see... a little piano...
+
+189
+00:09:25,920 --> 00:09:30,920
+<i>How cute! There's no way 
+this girl is the Major's sister!</i>
+
+190
+00:09:30,920 --> 00:09:34,310
+I lift a little piano...
+
+191
+00:09:35,420 --> 00:09:37,640
+What is the matter, Lieutenant?
+
+192
+00:09:37,930 --> 00:09:41,480
+<i>I take that back. 
+She absolutely is the Major's sister!</i>
+
+193
+00:09:41,480 --> 00:09:45,140
+<i>But then again, if you take away her monstrous strength, there's...</i>
+
+194
+00:09:45,140 --> 00:09:46,140
+<i>her looks...</i>
+
+195
+00:09:46,140 --> 00:09:47,140
+<i>her figure...</i>
+
+196
+00:09:47,140 --> 00:09:48,150
+<i>her assets...</i>
+
+197
+00:09:48,150 --> 00:09:49,150
+<i>and her influence.</i>
+
+198
+00:09:49,150 --> 00:09:51,210
+<i>Does that make it all okay?</i>
+
+199
+00:09:51,210 --> 00:09:52,610
+<i>Is this...</i>
+
+200
+00:09:52,610 --> 00:09:55,150
+<i>the prime of my life?</i>
+
+201
+00:09:55,700 --> 00:09:56,430
+Catherine-san...
+
+202
+00:09:56,430 --> 00:09:57,270
+Yes?
+
+203
+00:09:57,270 --> 00:09:58,910
+If it's all right with you,
+
+204
+00:09:59,390 --> 00:10:01,780
+would you allow me 
+the chance to go out with you?
+
+205
+00:10:05,990 --> 00:10:08,880
+H-Havoc-san...
+
+206
+00:10:09,870 --> 00:10:11,250
+Yes?
+
+207
+00:10:11,940 --> 00:10:13,270
+I...
+
+208
+00:10:14,360 --> 00:10:15,610
+I...
+
+209
+00:10:16,740 --> 00:10:18,150
+I...
+
+210
+00:10:18,150 --> 00:10:20,870
+prefer men who are 
+more like my brother.
+
+211
+00:10:23,470 --> 00:10:28,510
+Havoc-san, you are not my type, 
+so let's pretend we never spoke of this.
+
+212
+00:10:28,510 --> 00:10:30,700
+That is too bad.
+
+213
+00:10:30,700 --> 00:10:32,480
+Oh? What's the matter, Lieutenant?
+
+214
+00:10:32,610 --> 00:10:34,320
+10,000 cens says he blows it.
+
+215
+00:10:34,320 --> 00:10:35,950
+10,000 cens says she turns him down.
+
+216
+00:10:35,950 --> 00:10:38,490
+Okay, 30,000 cens says 
+they call the whole thing off.
+
+217
+00:10:38,750 --> 00:10:40,540
+That doesn't make for 
+much of a wager, you know.
+
+218
+00:10:40,540 --> 00:10:41,990
+That's right!
+
+219
+00:10:42,420 --> 00:10:45,380
+Why did I even come here?
+
+220
+00:10:47,060 --> 00:10:49,080
+The Mystery of Warehouse 13
+
+221
+00:10:47,060 --> 00:10:49,080
+The Mystery of Warehouse 13
+
+222
+00:10:55,840 --> 00:11:00,450
+Well, Major Armstrong is exactly the kind of man I figured him for.
+
+223
+00:11:00,450 --> 00:11:02,900
+Lieutenant Hawkeye, 
+can you put out a dragnet?
+
+224
+00:11:02,900 --> 00:11:03,600
+Yes.
+
+225
+00:11:06,000 --> 00:11:08,100
+I'm starving.
+
+226
+00:11:08,510 --> 00:11:12,180
+I've had to go without lunch ever since I lost that bet.
+
+227
+00:11:12,180 --> 00:11:14,390
+I won, so I've been 
+eating my fill.
+
+228
+00:11:14,390 --> 00:11:16,420
+Please buy me something!
+
+229
+00:11:17,110 --> 00:11:19,750
+If I did that, the bet wouldn't mean anything, would it?
+
+230
+00:11:21,450 --> 00:11:23,240
+Aren't those fixed yet?
+
+231
+00:11:23,240 --> 00:11:26,370
+I sure do hate this. 
+The whole area is creepy.
+
+232
+00:11:27,050 --> 00:11:29,220
+There are even stories of ghosts appearing here.
+
+233
+00:11:38,790 --> 00:11:40,230
+What's that sound?
+
+234
+00:11:40,230 --> 00:11:41,880
+It couldn't be...
+
+235
+00:11:46,580 --> 00:11:48,390
+There it is!
+
+236
+00:11:53,420 --> 00:11:54,750
+No...
+
+237
+00:11:55,430 --> 00:11:57,840
+Don't do that...
+
+238
+00:11:59,020 --> 00:12:00,800
+You're tickling me...
+
+239
+00:12:13,050 --> 00:12:14,420
+Jeez...
+
+240
+00:12:16,830 --> 00:12:17,920
+Wait!
+
+241
+00:12:18,200 --> 00:12:19,500
+Sit!
+
+242
+00:12:19,500 --> 00:12:20,610
+Shake!
+
+243
+00:12:20,610 --> 00:12:21,780
+The other one!
+
+244
+00:12:21,780 --> 00:12:22,910
+Lie down!
+
+245
+00:12:22,910 --> 00:12:23,800
+All right.
+
+246
+00:12:37,390 --> 00:12:38,970
+Good morning, Lieutenant.
+
+247
+00:12:38,970 --> 00:12:39,650
+Morning.
+
+248
+00:12:40,780 --> 00:12:41,900
+Hey, seriously?
+
+249
+00:12:41,900 --> 00:12:43,020
+Yes, seriously.
+
+250
+00:12:43,020 --> 00:12:45,120
+The stories are true!
+
+251
+00:12:45,120 --> 00:12:48,070
+Give me a break! I won't be able to go out walking at night anymore!
+
+252
+00:12:48,070 --> 00:12:49,410
+Has something happened?
+
+253
+00:12:49,730 --> 00:12:52,910
+They say they saw the 13th warehouse. What nonsense.
+
+254
+00:12:53,260 --> 00:12:55,160
+It's not nonsense, Colonel!
+
+255
+00:12:55,160 --> 00:12:57,420
+That's right! 
+We really are scared here!
+
+256
+00:12:57,420 --> 00:12:59,300
+The 13th warehouse?
+
+257
+00:12:59,670 --> 00:13:03,330
+Military warehouses are only supposed to go up to the 12th warehouse.
+
+258
+00:13:03,330 --> 00:13:06,600
+They say that there's 
+a 13th one that appears!
+
+259
+00:13:06,600 --> 00:13:11,020
+In fact, they say that the location where it stands was an execution ground a long time ago!
+
+260
+00:13:11,020 --> 00:13:13,630
+When night falls, 
+the 13th warehouse
+
+261
+00:13:13,630 --> 00:13:16,420
+appears in the place where 
+there should only be twelve of them!
+
+262
+00:13:16,420 --> 00:13:19,450
+And the ghosts of those who were executed there long ago
+
+263
+00:13:19,450 --> 00:13:21,530
+can be heard scra... scraping,
+
+264
+00:13:21,780 --> 00:13:25,300
+digging up the ground, 
+looking for their own bodies!
+
+265
+00:13:25,300 --> 00:13:28,530
+Ha! That's ridiculous. 
+You look at things in a state of fear,
+
+266
+00:13:28,530 --> 00:13:31,470
+so you're just imagining the things 
+that you're afraid of.
+
+267
+00:13:31,470 --> 00:13:33,040
+You must've just mistook it 
+for something else.
+
+268
+00:13:33,040 --> 00:13:34,860
+Colonel, aren't you afraid?
+
+269
+00:13:34,860 --> 00:13:37,920
+Of course not. 
+Alchemists are scientists.
+
+270
+00:13:37,920 --> 00:13:41,300
+It's our job to always look at things 
+with a logical mind.
+
+271
+00:13:41,300 --> 00:13:43,930
+But we're not the 
+only ones who saw it.
+
+272
+00:13:43,930 --> 00:13:45,800
+There are stories all over the Command Center.
+
+273
+00:13:45,800 --> 00:13:48,700
+This is pathetic. 
+You call yourselves soldiers?
+
+274
+00:13:48,700 --> 00:13:51,210
+I'm going to reveal the reality of the situation
+
+275
+00:13:51,210 --> 00:13:53,020
+to those who would spread these kinds of stories!
+
+276
+00:13:53,020 --> 00:13:54,650
+Really?!
+
+277
+00:13:54,650 --> 00:13:58,100
+Everyone, rejoice! The Colonel says 
+he's going to join our operation tonight!
+
+278
+00:13:58,100 --> 00:14:00,420
+That's our colonel! 
+He thinks about his men!
+
+279
+00:14:00,420 --> 00:14:03,790
+Thank goodness! With the Colonel along, there's nothing to be afraid of!
+
+280
+00:14:03,790 --> 00:14:05,400
+Just a minute! 
+What are you talking about?
+
+281
+00:14:05,400 --> 00:14:08,600
+You know, tonight's operation to uncover the truth about the ghostly phenomena.
+
+282
+00:14:08,600 --> 00:14:11,050
+You're going to show us 
+the reality of it, right, Colonel?
+
+283
+00:14:11,050 --> 00:14:12,800
+I did say that, but...
+
+284
+00:14:12,800 --> 00:14:15,490
+I'm afraid to go home to the dorms at night.
+
+285
+00:14:15,490 --> 00:14:17,840
+Please help us, Colonel!
+
+286
+00:14:22,860 --> 00:14:26,990
+For crying out loud, why do I have to 
+tag along on their little test of courage?!
+
+287
+00:14:26,990 --> 00:14:29,090
+They all adore you, Colonel.
+
+288
+00:14:29,090 --> 00:14:32,180
+Why should I be pleased 
+over being adored by men?
+
+289
+00:14:32,180 --> 00:14:34,350
+How can men serve as soldiers against flesh-and-blood men,
+
+290
+00:14:34,350 --> 00:14:37,180
+when something they can't even see makes them jump out of their skin?
+
+291
+00:14:45,670 --> 00:14:47,250
+I didn't tell you to stop.
+
+292
+00:14:47,250 --> 00:14:49,350
+You looked like 
+you wanted to stop.
+
+293
+00:14:58,810 --> 00:15:00,850
+Oh, Colonel Mustang!
+
+294
+00:15:00,850 --> 00:15:03,290
+Sorry to drop in on you 
+so unexpectedly.
+
+295
+00:15:03,290 --> 00:15:05,550
+I was just in the neighborhood.
+
+296
+00:15:05,550 --> 00:15:08,250
+My, thank you for taking the trouble to see me.
+
+297
+00:15:08,250 --> 00:15:11,010
+Go on, Elicia, 
+can you say hello?
+
+298
+00:15:11,010 --> 00:15:13,510
+Hey there, Elicia. 
+How are you?
+
+299
+00:15:17,770 --> 00:15:20,270
+Well, come on inside. 
+I'll serve some tea.
+
+300
+00:15:27,110 --> 00:15:29,360
+No, I still have 
+some work to attend to,
+
+301
+00:15:29,690 --> 00:15:30,860
+so I'll be leaving.
+
+302
+00:15:33,030 --> 00:15:34,870
+Like I said...
+
+303
+00:15:35,790 --> 00:15:39,730
+It's much more frightening to take on a live person.
+
+304
+00:15:40,870 --> 00:15:43,260
+Indeed, this is perfect.
+
+305
+00:15:43,260 --> 00:15:45,000
+There's nothing in here about it.
+
+306
+00:15:45,000 --> 00:15:47,130
+There aren't any more documents that Hughes left behind, right?
+
+307
+00:15:47,130 --> 00:15:48,630
+Yes, nothing more.
+
+308
+00:15:48,630 --> 00:15:50,350
+Fine, then.
+
+309
+00:15:50,350 --> 00:15:52,120
+Dispose of all of these materials.
+
+310
+00:15:52,120 --> 00:15:53,220
+Don't even leave ashes.
+
+311
+00:15:54,210 --> 00:15:56,490
+But these are official 
+military documents...
+
+312
+00:15:56,490 --> 00:15:57,220
+I don't care.
+
+313
+00:15:59,480 --> 00:16:02,290
+The 5th Laboratory 
+had been shut down.
+
+314
+00:16:02,290 --> 00:16:04,900
+It's only natural that there wouldn't be any records, wouldn't it?
+
+315
+00:16:04,900 --> 00:16:08,020
+But there are <i>too</i> few of them. Even if it was shut down,
+
+316
+00:16:08,020 --> 00:16:10,900
+it's not natural for there not to be any records of installation maintenance.
+
+317
+00:16:10,900 --> 00:16:12,990
+Someone was 
+neglecting their duties.
+
+318
+00:16:13,350 --> 00:16:15,270
+You mean Brig. Gen. Grand?
+
+319
+00:16:15,270 --> 00:16:17,010
+What are you trying to say?
+
+320
+00:16:17,010 --> 00:16:20,490
+That it wasn't a mishap with the records, but that there <i>are</i> no records.
+
+321
+00:16:20,490 --> 00:16:23,710
+This is evidence that there was 
+a military directive to cover it up.
+
+322
+00:16:24,210 --> 00:16:28,120
+Though I couldn't imagine that the Führer was aware of this.
+
+323
+00:16:29,340 --> 00:16:31,610
+Chimeras that were 
+formed from humans...
+
+324
+00:16:31,610 --> 00:16:34,920
+Amplification of alchemic powers 
+by means of a Philosopher's Stone...
+
+325
+00:16:34,920 --> 00:16:37,050
+Both would be powerful military assets in battle.
+
+326
+00:16:37,050 --> 00:16:40,930
+You <i>do</i> know that those techniques are forbidden, right?
+
+327
+00:16:41,160 --> 00:16:43,670
+Science is the result 
+of trial and error.
+
+328
+00:16:43,670 --> 00:16:45,940
+Failing to utilize the mistakes of the past by learning from them,
+
+329
+00:16:46,240 --> 00:16:49,940
+and abandoning them as being too dangerous would be foolish, would it not?
+
+330
+00:16:50,290 --> 00:16:54,200
+Right now, I have Zolf Kimbly and Shou Tucker under me.
+
+331
+00:16:54,200 --> 00:16:55,780
+All I would need is your order.
+
+332
+00:16:55,780 --> 00:16:59,450
+There's a rebellion 
+starting up again in Liore.
+
+333
+00:16:59,450 --> 00:17:02,760
+There is also intelligence that Scar is in hiding.
+
+334
+00:17:02,760 --> 00:17:05,080
+How would you like to 
+test your powers there?
+
+335
+00:17:06,100 --> 00:17:06,850
+Yes, sir.
+
+336
+00:17:07,580 --> 00:17:11,590
+For Pete's sake... For grown men to all gang up over some ghostly disturbance...
+
+337
+00:17:11,590 --> 00:17:13,370
+But we really are frightened.
+
+338
+00:17:13,370 --> 00:17:15,140
+Colonel, having you along will be a great help.
+
+339
+00:17:15,140 --> 00:17:17,250
+Let's just investigate this quick 
+and go home!
+
+340
+00:17:19,140 --> 00:17:21,890
+From here on, the streetlights are out, so there's no light.
+
+341
+00:17:21,890 --> 00:17:24,560
+What is Maintenance up to?! This is dereliction of duty!
+
+342
+00:17:26,540 --> 00:17:29,150
+That should do it.
+
+343
+00:17:34,400 --> 00:17:35,900
+It's just your shadow, you idiot!
+
+344
+00:17:35,900 --> 00:17:39,120
+Sergeant Fuery, if you do this, you can make shadows fun!
+
+345
+00:17:39,480 --> 00:17:41,620
+See? It's a cute doggie.
+
+346
+00:17:41,620 --> 00:17:43,120
+Woof! Woof!
+
+347
+00:17:48,380 --> 00:17:49,800
+Stop being so scared by everything!
+
+348
+00:17:49,800 --> 00:17:50,830
+That's easy for you to say.
+
+349
+00:17:50,830 --> 00:17:52,100
+We really are scared!
+
+350
+00:17:52,100 --> 00:17:53,100
+I want to go home.
+
+351
+00:17:53,100 --> 00:17:55,090
+You call yourselves my men?!
+
+352
+00:17:55,430 --> 00:17:57,670
+Come on! I'll prove to you that there are no ghosts!
+
+353
+00:17:57,670 --> 00:18:00,100
+Don't leave us behind, Colonel!
+
+354
+00:18:00,800 --> 00:18:03,140
+Here is Warehouse 12.
+
+355
+00:18:03,660 --> 00:18:06,170
+Beyond it is just an empty lot.
+
+356
+00:18:07,100 --> 00:18:09,870
+Look! Where do you 
+see Warehouse 13?
+
+357
+00:18:09,870 --> 00:18:12,090
+Maybe it's hiding because 
+there are a lot of people here.
+
+358
+00:18:12,090 --> 00:18:13,110
+Enough already!
+
+359
+00:18:13,390 --> 00:18:16,860
+Could it be that they mean <i>that</i> 
+when they say 13?
+
+360
+00:18:18,830 --> 00:18:23,370
+The letter "B" from the alphabet. It looked like the number 13.
+
+361
+00:18:23,640 --> 00:18:25,800
+It's true, you could mistake it for that.
+
+362
+00:18:25,800 --> 00:18:28,450
+So, in the dark and out of fear, what you did was misread it.
+
+363
+00:18:28,450 --> 00:18:30,880
+Jeez, you're such a scaremonger.
+
+364
+00:18:30,880 --> 00:18:33,210
+Look! Once you realize what you're dealing with, that's all there is to it!
+
+365
+00:18:33,210 --> 00:18:34,800
+So, what about the ghosts?
+
+366
+00:18:34,800 --> 00:18:36,160
+They don't exist!
+
+367
+00:18:36,160 --> 00:18:40,250
+Thank goodness! Now I can relax walking past here tomorrow.
+
+368
+00:18:40,250 --> 00:18:41,630
+Now that you know, 
+we're done here.
+
+369
+00:18:41,630 --> 00:18:42,390
+Let's go home!
+
+370
+00:18:42,390 --> 00:18:45,450
+Now that I can relax, 
+I'm feeling hungry.
+
+371
+00:18:45,450 --> 00:18:47,010
+Once we get back, 
+how about some supper?
+
+372
+00:18:47,010 --> 00:18:48,390
+You guys are buying tonight.
+
+373
+00:18:48,390 --> 00:18:50,110
+Huh? I don't have any money!
+
+374
+00:18:50,110 --> 00:18:51,920
+That's what you get 
+for scaring us.
+
+375
+00:18:51,920 --> 00:18:52,650
+Hold it.
+
+376
+00:18:52,890 --> 00:18:53,920
+What is it?
+
+377
+00:18:53,920 --> 00:18:54,940
+Look at this.
+
+378
+00:18:56,770 --> 00:18:57,440
+What is it?
+
+379
+00:18:57,440 --> 00:18:59,140
+Looks like something 
+was dug up here.
+
+380
+00:18:59,140 --> 00:19:00,060
+It couldn't be...
+
+381
+00:19:00,060 --> 00:19:00,700
+Falman!
+
+382
+00:19:00,700 --> 00:19:01,380
+Right.
+
+383
+00:19:13,370 --> 00:19:14,400
+What's this?
+
+384
+00:19:18,060 --> 00:19:19,010
+A bone.
+
+385
+00:19:21,760 --> 00:19:23,630
+Sure enough, it's the ghost of an executed prisoner!
+
+386
+00:19:23,630 --> 00:19:25,810
+I-It's really here!
+
+387
+00:19:25,810 --> 00:19:28,770
+Calm down! Even if this were an execution grounds,
+
+388
+00:19:28,770 --> 00:19:30,540
+they wouldn't be burying them here too, you know!
+
+389
+00:19:30,540 --> 00:19:32,540
+This is a case of someone 
+dumping a body.
+
+390
+00:19:32,540 --> 00:19:36,780
+A body illegally dumped in a place 
+said to be a former execution grounds.
+
+391
+00:19:37,030 --> 00:19:40,530
+There aren't any criminals who would come 
+all the way onto a military base just to bury this.
+
+392
+00:19:40,530 --> 00:19:44,070
+Which means, you're saying that 
+this is an incident internal to the military?
+
+393
+00:19:44,070 --> 00:19:48,000
+It's highly possible. It's also possible that this bone belongs to a soldier.
+
+394
+00:20:02,540 --> 00:20:05,440
+Establishing the identity of 
+the victim is our top priority!
+
+395
+00:20:05,440 --> 00:20:06,640
+Do not overlook anything!
+
+396
+00:20:07,080 --> 00:20:08,850
+They won't necessarily be buried in just one spot.
+
+397
+00:20:08,850 --> 00:20:10,640
+Dig up anywhere 
+that looks suspicious.
+
+398
+00:20:10,640 --> 00:20:11,730
+Roger!
+
+399
+00:20:37,110 --> 00:20:40,090
+Hey, would you mind if I 
+told you what I'm thinking?
+
+400
+00:20:45,220 --> 00:20:47,600
+Who's the one who put us up to this nonsense?!
+
+401
+00:20:54,900 --> 00:20:56,300
+Has something happened?
+
+402
+00:20:56,300 --> 00:20:57,730
+Never mind.
+
+403
+00:21:07,940 --> 00:21:08,650
+Yes?
+
+404
+00:21:11,040 --> 00:21:12,950
+Colonel, the tiger is on the move.
+
+405
+00:21:14,460 --> 00:21:16,650
+I'm looking forward to 
+hearing good things from you.
+
+406
+00:21:16,650 --> 00:21:17,540
+Excuse me!
+
+407
+00:21:17,780 --> 00:21:19,570
+What is it?
+
+408
+00:21:19,570 --> 00:21:22,550
+I request permission to go along with the dispatch eastward.
+
+409
+00:21:22,550 --> 00:21:26,540
+I have requested Major Armstrong to oversee combat on this trip.
+
+410
+00:21:26,540 --> 00:21:28,550
+The Major is staying 
+off the front lines
+
+411
+00:21:28,550 --> 00:21:30,560
+due to the injuries he sustained in the recent fighting in Ishbal.
+
+412
+00:21:30,560 --> 00:21:34,040
+I question whether the Major, who has not particularly distinguished himself in battle,
+
+413
+00:21:34,040 --> 00:21:36,560
+should be given command of the forces on the front line.
+
+414
+00:21:36,560 --> 00:21:40,410
+I also have a responsibility to this case, 
+having once been stationed
+
+415
+00:21:40,410 --> 00:21:42,610
+at the Eastern Command Center.
+
+416
+00:21:42,610 --> 00:21:44,670
+Please allow me to 
+go along with them.
+
+417
+00:21:46,320 --> 00:21:48,320
+I have no objections.
+
+418
+00:21:48,320 --> 00:21:51,520
+Very well. 
+Colonel Roy Mustang,
+
+419
+00:21:51,520 --> 00:21:54,770
+I hereby order you to go along with 
+the eastern suppression detachment.
+
+420
+00:21:54,770 --> 00:21:56,400
+I humbly accept your order!
+
+421
+00:22:08,970 --> 00:22:14,370
+On the day you left,
+
+422
+00:22:08,970 --> 00:22:14,370
+On the day you left,
+
+423
+00:22:08,970 --> 00:22:14,370
+kimi ga tabidatsu hi wa
+
+424
+00:22:08,970 --> 00:22:14,370
+kimi ga tabidatsu hi wa
+
+425
+00:22:14,370 --> 00:22:21,660
+I said good-bye and waved, like always
+
+426
+00:22:14,370 --> 00:22:21,660
+I said good-bye and waved, like always
+
+427
+00:22:14,370 --> 00:22:21,660
+itsumo to onaji 'jaa ne' to te o futta
+
+428
+00:22:14,370 --> 00:22:21,660
+itsumo to onaji 'jaa ne' to te o futta
+
+429
+00:22:22,440 --> 00:22:27,880
+Almost as if I would see you again
+
+430
+00:22:22,440 --> 00:22:27,880
+Almost as if I would see you again
+
+431
+00:22:22,440 --> 00:22:27,880
+maru de ashita mo mata
+
+432
+00:22:22,440 --> 00:22:27,880
+maru de ashita mo mata
+
+433
+00:22:27,880 --> 00:22:33,020
+in this town tomorrow
+
+434
+00:22:27,880 --> 00:22:33,020
+in this town tomorrow
+
+435
+00:22:27,880 --> 00:22:33,020
+kono machi de au mitai ni
+
+436
+00:22:27,880 --> 00:22:33,020
+kono machi de au mitai ni
+
+437
+00:22:34,000 --> 00:22:34,400
+To believe in love
+
+438
+00:22:34,000 --> 00:22:34,400
+To believe in love
+
+439
+00:22:34,000 --> 00:22:34,400
+ai o shinjiru no wa
+
+440
+00:22:34,000 --> 00:22:34,400
+ai o shinjiru no wa
+
+441
+00:22:34,400 --> 00:22:40,470
+To believe in love
+
+442
+00:22:34,400 --> 00:22:40,470
+To believe in love
+
+443
+00:22:34,400 --> 00:22:40,470
+ai o shinjiru no wa
+
+444
+00:22:34,400 --> 00:22:40,470
+ai o shinjiru no wa
+
+445
+00:22:41,170 --> 00:22:46,790
+is to not give up on yourself
+
+446
+00:22:41,170 --> 00:22:46,790
+is to not give up on yourself
+
+447
+00:22:41,170 --> 00:22:46,790
+jibun ni mo makenai koto
+
+448
+00:22:41,170 --> 00:22:46,790
+jibun ni mo makenai koto
+
+449
+00:22:47,530 --> 00:22:53,820
+And until the day my dream comes true,
+
+450
+00:22:47,530 --> 00:22:53,820
+And until the day my dream comes true,
+
+451
+00:22:47,530 --> 00:22:53,820
+yume ga kanau hi made
+
+452
+00:22:47,530 --> 00:22:53,820
+yume ga kanau hi made
+
+453
+00:22:54,530 --> 00:23:00,000
+I will be here with a smile as I look up at the stars,
+
+454
+00:22:54,530 --> 00:23:00,000
+I will be here with a smile as I look up at the stars,
+
+455
+00:22:54,530 --> 00:23:00,000
+egao no mama hoshi o mite inori sasage
+
+456
+00:22:54,530 --> 00:23:00,000
+egao no mama hoshi o mite inori sasage
+
+457
+00:23:00,000 --> 00:23:04,150
+offering up a prayer
+
+458
+00:23:00,000 --> 00:23:04,150
+offering up a prayer
+
+459
+00:23:00,000 --> 00:23:04,150
+koko ni iru kara
+
+460
+00:23:00,000 --> 00:23:04,150
+koko ni iru kara
+
+461
+00:23:04,400 --> 00:23:04,650
+I want to be the sky for you,
+
+462
+00:23:04,400 --> 00:23:04,650
+I want to be the sky for you,
+
+463
+00:23:04,400 --> 00:23:04,650
+watashi wa kimi ni totte no sora de itai
+
+464
+00:23:04,400 --> 00:23:04,650
+watashi wa kimi ni totte no sora de itai
+
+465
+00:23:04,650 --> 00:23:05,340
+I want to be the sky for you,
+
+466
+00:23:04,650 --> 00:23:05,340
+I want to be the sky for you,
+
+467
+00:23:04,650 --> 00:23:05,340
+watashi wa kimi ni totte no sora de itai
+
+468
+00:23:04,650 --> 00:23:05,340
+watashi wa kimi ni totte no sora de itai
+
+469
+00:23:05,340 --> 00:23:07,210
+I want to be the sky for you,
+
+470
+00:23:05,340 --> 00:23:07,210
+I want to be the sky for you,
+
+471
+00:23:05,340 --> 00:23:07,210
+watashi wa kimi ni totte no sora de itai
+
+472
+00:23:05,340 --> 00:23:07,210
+watashi wa kimi ni totte no sora de itai
+
+473
+00:23:07,210 --> 00:23:11,330
+I want to be the sky for you,
+
+474
+00:23:07,210 --> 00:23:11,330
+I want to be the sky for you,
+
+475
+00:23:07,210 --> 00:23:11,330
+watashi wa kimi ni totte no sora de itai
+
+476
+00:23:07,210 --> 00:23:11,330
+watashi wa kimi ni totte no sora de itai
+
+477
+00:23:11,520 --> 00:23:17,740
+bundling you up, sorrows and all,
+
+478
+00:23:11,520 --> 00:23:17,740
+bundling you up, sorrows and all,
+
+479
+00:23:11,520 --> 00:23:17,740
+kanashimi made mo tsutsumikonde
+
+480
+00:23:11,520 --> 00:23:17,740
+kanashimi made mo tsutsumikonde
+
+481
+00:23:17,740 --> 00:23:18,080
+so that you know, whenever you look up, that you are not alone,
+
+482
+00:23:17,740 --> 00:23:18,080
+so that you know, whenever you look up, that you are not alone,
+
+483
+00:23:17,740 --> 00:23:18,080
+itsudemo miageru toki wa hitori ja nai to
+
+484
+00:23:17,740 --> 00:23:18,080
+itsudemo miageru toki wa hitori ja nai to
+
+485
+00:23:18,080 --> 00:23:24,970
+so that you know, whenever you look up, that you are not alone,
+
+486
+00:23:18,080 --> 00:23:24,970
+so that you know, whenever you look up, that you are not alone,
+
+487
+00:23:18,080 --> 00:23:24,970
+itsudemo miageru toki wa hitori ja nai to
+
+488
+00:23:18,080 --> 00:23:24,970
+itsudemo miageru toki wa hitori ja nai to
+
+489
+00:23:24,970 --> 00:23:30,050
+even when you're far away,
+
+490
+00:23:24,970 --> 00:23:30,050
+even when you're far away,
+
+491
+00:23:24,970 --> 00:23:30,050
+tooku de omoeru you ni
+
+492
+00:23:24,970 --> 00:23:30,050
+tooku de omoeru you ni
+
+493
+00:23:31,620 --> 00:23:35,640
+and that you have a place to come home to
+
+494
+00:23:31,620 --> 00:23:35,640
+and that you have a place to come home to
+
+495
+00:23:31,620 --> 00:23:35,640
+kaeru basho de aru you ni
+
+496
+00:23:31,620 --> 00:23:35,640
+kaeru basho de aru you ni
+
+497
+00:23:35,640 --> 00:23:36,980
+and that you have a place to come home to
+
+498
+00:23:35,640 --> 00:23:36,980
+and that you have a place to come home to
+
+499
+00:23:35,640 --> 00:23:36,980
+kaeru basho de aru you ni
+
+500
+00:23:35,640 --> 00:23:36,980
+kaeru basho de aru you ni
+
+501
+00:23:39,190 --> 00:23:40,960
+<i>Fullmetal Alchemist</i>...
+
+502
+00:23:39,620 --> 00:23:40,960
+With the River's Flow
+
+503
+00:23:39,620 --> 00:23:40,910
+With the River's Flow
+
+504
+00:23:39,620 --> 00:23:42,980
+With the River's Flow
+
+505
+00:23:40,960 --> 00:23:43,980
+Episode 38: "With the River's Flow"
+
+506
+00:23:44,880 --> 00:23:46,410
+Whenever I fought...
+
+507
+00:23:46,410 --> 00:23:48,280
+Whenever I fought with Brother,
+
+508
+00:23:49,030 --> 00:23:51,890
+I would always hunch down on the bank of the river.
+
